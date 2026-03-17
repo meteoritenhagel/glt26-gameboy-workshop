@@ -26,19 +26,19 @@ Memcopy::
 ; Taken from https://gbdev.io/gb-asm-tutorial/part2/input.html
 UpdateKeys::
 	; Poll half the controller
-	ld a, P1F_GET_BTN
+	ld a, JOYP_GET_BUTTONS
 	call .onenibble
 	ld b, a ; B7-4 = 1; B3-0 = unpressed buttons
 
 	; Poll the other half
-	ld a, P1F_GET_DPAD
+	ld a, JOYP_GET_CTRL_PAD
 	call .onenibble
 	swap a ; A3-0 = unpressed directions; A7-4 = 1
 	xor a, b ; A = pressed buttons + directions
 	ld b, a ; B = pressed buttons + directions
 
 	; And release the controller
-	ld a, P1F_GET_NONE
+	ld a, JOYP_GET_NONE
 	ldh [rP1], a
 
 	; Combine with previous wCurKeys to make wNewKeys

@@ -2,3 +2,5 @@
 *.2bpp
 *.tilemap
 *.gbc
+*.gb
+*.sym
