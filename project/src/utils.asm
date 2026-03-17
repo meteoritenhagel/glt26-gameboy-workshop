@@ -1,5 +1,11 @@
 INCLUDE "./include/hardware.inc"
-INCLUDE "./include/constants.inc"
+
+
+SECTION "Variables", WRAM0
+
+wCurKeys:: db
+wNewKeys:: db
+
 
 SECTION "Utility Functions", ROM0
 

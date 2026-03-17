@@ -5,13 +5,13 @@
 
 Illustrations by Pixeltrue https://icons8.com/illustrations/author/5ec7b0e101d0360016f3d1b3 on icon8 (master slide &quot;Table of content&quot;)
 Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://unsplash.com/fr/licence (slide 9)
-    </dc:description><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:creation-date>2026-03-09T14:23:11.768862170</meta:creation-date><meta:editing-duration>PT21H26M19S</meta:editing-duration><meta:editing-cycles>9</meta:editing-cycles><dc:date>2026-03-17T12:57:23.073461644</dc:date><meta:document-statistic meta:object-count="396"/></office:meta>
+    </dc:description><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:creation-date>2026-03-09T14:23:11.768862170</meta:creation-date><meta:editing-duration>PT21H46M34S</meta:editing-duration><meta:editing-cycles>15</meta:editing-cycles><dc:date>2026-03-17T19:59:03.058120864</dc:date><meta:document-statistic meta:object-count="413"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">-2785</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-418</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">29035</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">21445</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-4322</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-3204</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">36777</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">25371</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -33,16 +33,16 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">7</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">5</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-2530</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-418</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">29036</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">20936</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-4322</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-3204</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">36778</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">25372</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">635</config:config-item>
@@ -53,7 +53,7 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      <config:config-item config:name="GridSnapWidthYDenominator" config:type="int">4</config:config-item>
      <config:config-item config:name="IsAngleSnapEnabled" config:type="boolean">false</config:config-item>
      <config:config-item config:name="SnapAngle" config:type="int">1500</config:config-item>
-     <config:config-item config:name="ZoomOnPage" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ZoomOnPage" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
      <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">true</config:config-item>
      <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
@@ -65,8 +65,8 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
    <config:config-item config:name="IsPrintNotes" config:type="boolean">false</config:config-item>
    <config:config-item config:name="DefaultTabStop" config:type="int">1270</config:config-item>
    <config:config-item config:name="IsPrintHandout" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">Canon_SW</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">rAH+/0Nhbm9uX1NXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpDYW5vbl9TVwAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAmQAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9Q2Fub25fU1cKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5hZGp1c3RtZW50PTAsMCwnMCwwCmNvbG9yZGVwdGg9MjQKY29sb3JkZXZpY2U9MApQUERDb250ZXh0RGF0YQpQYWdlU2l6ZTpBNAAAEgBDT01QQVRfRFVQTEVYX01PREUPAER1cGxleE1vZGU6Ok9mZgwAUFJJTlRFUl9OQU1FCABDYW5vbl9TVwsARFJJVkVSX05BTUUNAENVUFM6Q2Fub25fU1c=</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">HP-LaserJet-Professional-M1132-MFP</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">/gH+/0hQLUxhc2VySmV0LVByb2Zlc3Npb25hbC1NMTEzMi1NRlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpIUC1MYXNlckpldC1Qcm9mZXNzaW9uYWwtTQAWAAMAswAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SFAtTGFzZXJKZXQtUHJvZmVzc2lvbmFsLU0xMTMyLU1GUApvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmFkanVzdG1lbnQ9MCwwLCcwLDAKY29sb3JkZXB0aD0yNApjb2xvcmRldmljZT0wClBQRENvbnRleHREYXRhClBhZ2VTaXplOkE0AAASAENPTVBBVF9EVVBMRVhfTU9ERRMARHVwbGV4TW9kZTo6VW5rbm93bgwAUFJJTlRFUl9OQU1FIgBIUC1MYXNlckpldC1Qcm9mZXNzaW9uYWwtTTExMzItTUZQCwBEUklWRVJfTkFNRScAQ1VQUzpIUC1MYXNlckpldC1Qcm9mZXNzaW9uYWwtTTExMzItTUZQ</config:config-item>
    <config:config-item config:name="DashTableURL" config:type="string">$(brandbaseurl)/share/palette%3B$(user)/config/standard.sod</config:config-item>
    <config:config-item config:name="PageNumberFormat" config:type="int">4</config:config-item>
    <config:config-item-map-indexed config:name="ForbiddenCharacters">
@@ -117,12 +117,16 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
-  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;, &apos;Courier New&apos;, &apos;DejaVu Sans Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
-  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Mono1" svg:font-family="&apos;Liberation Mono&apos;, &apos;Courier New&apos;, &apos;DejaVu Sans Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans1" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-pitch="fixed"/>
   <style:font-face style:name="Noto Sans" svg:font-family="&apos;Noto Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
@@ -1010,7 +1014,7 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
   <draw:stroke-dash draw:name="Long_20_Dash" draw:display-name="Long Dash" draw:style="rect" draw:dots1="1" draw:dots1-length="600%" draw:distance="300%"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" style:writing-mode="lr-tb"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" loext:tab-stop-distance="0cm" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" loext:tab-stop-distance="0cm" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Sans" fo:font-size="24pt" fo:language="en" fo:country="US" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="24pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="24pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -3282,89 +3286,113 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
    <style:graphic-properties draw:fill="bitmap" draw:fill-image-name="Bitmap_20_272" draw:fill-image-width="11.373cm" draw:fill-image-height="11.373cm" style:repeat="stretch" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" style:protect="position size" loext:decorative="false"/>
   </style:style>
   <style:style style:name="gr127" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="0.865cm" loext:decorative="false"/>
+   <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#dddddd" fo:min-height="4.232cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr128" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="4.006cm" loext:decorative="false"/>
+   <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#dddddd" fo:min-height="9.275cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr129" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#ced4da" draw:opacity="50%" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="4.322cm" fo:min-width="0cm" draw:shadow-opacity="50%" loext:decorative="false"/>
-  </style:style>
-  <style:style style:name="gr130" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="1.829cm" loext:decorative="false"/>
+   <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#dddddd" fo:min-height="7.293cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr131" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="2.697cm" loext:decorative="false"/>
+  <style:style style:name="gr130" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" fo:min-height="1.601cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr132" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="1.829cm" loext:decorative="false"/>
+  <style:style style:name="gr131" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" fo:min-height="2.642cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr133" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="1.829cm" loext:decorative="false"/>
+  <style:style style:name="gr132" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" fo:min-height="4.725cm" loext:decorative="false"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr133" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="0.865cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr134" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="1.829cm" loext:decorative="false"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="4.006cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr135" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+  <style:style style:name="gr135" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#ced4da" draw:opacity="50%" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="4.322cm" fo:min-width="0cm" draw:shadow-opacity="50%" loext:decorative="false"/>
+  </style:style>
+  <style:style style:name="gr136" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="1.829cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="gr136" style:family="graphic" style:parent-style-name="Object_20_with_20_no_20_fill_20_and_20_no_20_line">
-   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" draw:shadow="visible" draw:shadow-offset-x="0.203cm" draw:shadow-offset-y="0.203cm" draw:shadow-opacity="20%" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="100%" style:mirror="none" loext:decorative="false"/>
   </style:style>
   <style:style style:name="gr137" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="1.829cm" loext:decorative="false"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="2.697cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr138" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="1.829cm" loext:decorative="false"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr139" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="1.829cm" loext:decorative="false"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr140" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="1.829cm" loext:decorative="false"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr141" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="1.829cm" loext:decorative="false"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr142" style:family="graphic" style:parent-style-name="Object_20_with_20_no_20_fill_20_and_20_no_20_line">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" draw:shadow="visible" draw:shadow-offset-x="0.203cm" draw:shadow-offset-y="0.203cm" draw:shadow-opacity="20%" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="100%" style:mirror="none" loext:decorative="false"/>
+  </style:style>
+  <style:style style:name="gr143" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="1.829cm" loext:decorative="false"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr144" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="2.489cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr139" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr145" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#8d99ae" draw:opacity="10%" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="2.444cm" fo:min-width="2.272cm" draw:shadow-opacity="10%" loext:decorative="false"/>
   </style:style>
-  <style:style style:name="gr140" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+  <style:style style:name="gr146" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="2.305cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr141" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr147" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="3.457cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr142" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr148" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="0.767cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr143" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr149" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#b8dbd9" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="2.624cm" fo:min-width="2.374cm" draw:shadow="visible" draw:shadow-offset-x="0.203cm" draw:shadow-offset-y="0.203cm" draw:shadow-opacity="20%" loext:decorative="false"/>
   </style:style>
-  <style:style style:name="gr144" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr150" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#586f7c" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="2.624cm" fo:min-width="2.374cm" draw:shadow="visible" draw:shadow-offset-x="0.203cm" draw:shadow-offset-y="0.203cm" draw:shadow-opacity="20%" loext:decorative="false"/>
   </style:style>
-  <style:style style:name="gr145" style:family="graphic" style:parent-style-name="Object_20_with_20_no_20_fill_20_and_20_no_20_line">
+  <style:style style:name="gr151" style:family="graphic" style:parent-style-name="Object_20_with_20_no_20_fill_20_and_20_no_20_line">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" draw:shadow-offset-x="0.203cm" draw:shadow-offset-y="0.203cm" draw:shadow-opacity="20%" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="100%" style:mirror="none" loext:decorative="false"/>
   </style:style>
-  <style:style style:name="gr146" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr152" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#2f4550" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="2.624cm" fo:min-width="2.374cm" draw:shadow="visible" draw:shadow-offset-x="0.203cm" draw:shadow-offset-y="0.203cm" draw:shadow-opacity="20%" loext:decorative="false"/>
   </style:style>
-  <style:style style:name="gr147" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr153" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="4.345cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr148" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr154" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#b8dbd9" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.29cm" fo:min-width="0.04cm" loext:decorative="false"/>
   </style:style>
-  <style:style style:name="gr149" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr155" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#586f7c" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.29cm" fo:min-width="0.04cm" loext:decorative="false"/>
   </style:style>
-  <style:style style:name="gr150" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr156" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#2f4550" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.29cm" fo:min-width="0.04cm" loext:decorative="false"/>
   </style:style>
   <style:style style:name="pr1" style:family="presentation" style:parent-style-name="Title-backgroundobjects">
@@ -3931,83 +3959,130 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.5cm" fo:margin-bottom="0cm" fo:text-indent="0cm"/>
   </style:style>
   <style:style style:name="P104" style:family="paragraph">
-   <style:text-properties fo:font-size="32pt" fo:font-weight="normal" style:font-size-asian="32pt" style:font-weight-asian="normal" style:font-size-complex="32pt" style:font-weight-complex="normal"/>
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.1cm"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P105" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#dddddd"/>
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.1cm"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="10pt" fo:font-weight="bold" fo:background-color="#dddddd" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P106" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.1cm" fo:line-height="100%" fo:text-indent="0cm"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="10pt" fo:font-weight="bold" fo:background-color="transparent" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P107" style:family="paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.1cm"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="10pt" fo:font-weight="bold" fo:background-color="transparent" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P108" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#dddddd"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.1cm" fo:line-height="100%" fo:text-indent="0cm"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="10pt" fo:font-weight="bold" fo:background-color="transparent" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P109" style:family="paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.1cm"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-size="13pt" fo:font-weight="bold" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P110" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#dddddd"/>
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.1cm"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-size="13pt" fo:font-weight="bold" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P111" style:family="paragraph">
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="30pt" style:font-size-asian="30pt" style:font-size-complex="30pt"/>
+  </style:style>
+  <style:style style:name="P112" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="30pt" style:font-size-asian="30pt" style:font-size-complex="30pt"/>
+  </style:style>
+  <style:style style:name="P113" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="30pt" style:font-size-asian="30pt" style:font-size-complex="30pt"/>
+  </style:style>
+  <style:style style:name="P114" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="30pt" style:font-size-asian="30pt" style:font-size-complex="30pt"/>
+  </style:style>
+  <style:style style:name="P115" style:family="paragraph">
+   <style:text-properties fo:font-size="32pt" fo:font-weight="normal" style:font-size-asian="32pt" style:font-weight-asian="normal" style:font-size-complex="32pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P116" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" fo:font-weight="bold"/>
   </style:style>
-  <style:style style:name="P106" style:family="paragraph">
+  <style:style style:name="P117" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
   </style:style>
-  <style:style style:name="P107" style:family="paragraph">
+  <style:style style:name="P118" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
    <style:text-properties fo:color="#999999" loext:opacity="100%" style:font-name="Noto Sans" fo:font-size="16pt" style:text-underline-style="none" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
-  <style:style style:name="P108" style:family="paragraph">
+  <style:style style:name="P119" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#ced4da" draw:opacity="50%"/>
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
-  <style:style style:name="P109" style:family="paragraph">
+  <style:style style:name="P120" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.42cm" fo:margin-bottom="0.35cm" fo:line-height="100%" fo:text-align="end" fo:text-indent="0cm"/>
   </style:style>
-  <style:style style:name="P110" style:family="paragraph">
+  <style:style style:name="P121" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.42cm" fo:margin-bottom="0.35cm" fo:line-height="100%" fo:text-align="end" fo:text-indent="0cm"/>
    <style:text-properties fo:color="#666666" loext:opacity="100%" style:font-name="Noto Sans" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
-  <style:style style:name="P111" style:family="paragraph">
+  <style:style style:name="P122" style:family="paragraph">
    <style:paragraph-properties fo:text-align="end"/>
   </style:style>
-  <style:style style:name="P112" style:family="paragraph">
+  <style:style style:name="P123" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:text-align="end"/>
    <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P113" style:family="paragraph">
+  <style:style style:name="P124" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.42cm" fo:margin-bottom="0.35cm" fo:line-height="100%" fo:text-indent="0cm"/>
   </style:style>
-  <style:style style:name="P114" style:family="paragraph">
+  <style:style style:name="P125" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.42cm" fo:margin-bottom="0.35cm" fo:line-height="100%" fo:text-indent="0cm"/>
    <style:text-properties fo:color="#666666" loext:opacity="100%" style:font-name="Noto Sans" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
-  <style:style style:name="P115" style:family="paragraph">
+  <style:style style:name="P126" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
   </style:style>
-  <style:style style:name="P116" style:family="paragraph">
+  <style:style style:name="P127" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:text-align="end"/>
    <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
   </style:style>
-  <style:style style:name="P117" style:family="paragraph">
+  <style:style style:name="P128" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
   </style:style>
-  <style:style style:name="P118" style:family="paragraph">
+  <style:style style:name="P129" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:text-properties style:font-name="Noto Sans" fo:font-size="16pt" style:text-underline-style="none" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
-  <style:style style:name="P119" style:family="paragraph">
+  <style:style style:name="P130" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#b8dbd9"/>
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
-  <style:style style:name="P120" style:family="paragraph">
+  <style:style style:name="P131" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#586f7c"/>
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
-  <style:style style:name="P121" style:family="paragraph">
+  <style:style style:name="P132" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#2f4550"/>
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
-  <style:style style:name="P122" style:family="paragraph">
+  <style:style style:name="P133" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:text-align="center"/>
    <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P123" style:family="paragraph">
+  <style:style style:name="P134" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:text-align="center"/>
    <style:text-properties fo:color="#666666" loext:opacity="100%" style:font-name="Noto Sans" fo:font-size="15pt" style:text-underline-style="none" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
@@ -4043,63 +4118,105 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
    <style:text-properties fo:font-size="54pt" style:font-size-asian="54pt" style:font-size-complex="54pt"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T12" style:family="text">
    <style:text-properties fo:font-size="21pt" style:font-size-asian="21pt" style:font-size-complex="21pt"/>
   </style:style>
-  <style:style style:name="T13" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Sans" fo:font-size="21pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="21pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="21pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
-  </style:style>
-  <style:style style:name="T14" style:family="text">
-   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
-  </style:style>
-  <style:style style:name="T15" style:family="text">
+  <style:style style:name="T12" style:family="text">
    <style:text-properties style:font-name="Noto Mono" fo:font-size="21pt" fo:background-color="#dddddd" style:font-size-asian="21pt" style:font-size-complex="21pt"/>
   </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="21pt" fo:font-style="normal" fo:background-color="#dddddd" style:font-size-asian="21pt" style:font-style-asian="normal" style:font-size-complex="21pt" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:color="#2a6099" loext:opacity="100%" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-weight="bold" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="13pt" fo:font-weight="bold" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
   <style:style style:name="T16" style:family="text">
-   <style:text-properties style:font-name="Noto Sans" fo:font-size="21pt" fo:background-color="transparent" style:font-size-asian="21pt" style:font-size-complex="21pt"/>
+   <style:text-properties fo:color="#1e6a39" loext:opacity="100%" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-weight="bold" fo:background-color="transparent" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T17" style:family="text">
-   <style:text-properties style:font-name="Noto Sans" fo:font-size="21pt" fo:background-color="#ffffff" style:font-size-asian="21pt" style:font-size-complex="21pt"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="13pt" fo:font-weight="bold" fo:background-color="transparent" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T18" style:family="text">
-   <style:text-properties style:font-name="Noto Sans" fo:font-size="21pt" style:font-name-asian="Liberation Mono" style:font-size-asian="21pt" style:font-name-complex="Liberation Mono" style:font-size-complex="21pt"/>
+   <style:text-properties fo:color="#2a6099" loext:opacity="100%" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-weight="bold" fo:background-color="transparent" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T19" style:family="text">
-   <style:text-properties style:font-name="Noto Sans" fo:font-size="21pt" fo:font-weight="bold" fo:background-color="transparent" style:font-size-asian="21pt" style:font-weight-asian="bold" style:font-size-complex="21pt" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="13pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" fo:background-color="transparent" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T20" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Mono" fo:font-size="21pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="#dddddd" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="21pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="21pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#666666" loext:opacity="100%" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-weight="bold" fo:background-color="transparent" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T21" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Sans" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#1e6a39" loext:opacity="100%" style:font-name="Liberation Mono" fo:font-size="13pt" fo:font-weight="bold" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T22" style:family="text">
-   <style:text-properties style:font-name="Noto Mono" fo:font-size="21pt" fo:background-color="#dddddd" style:font-name-asian="Liberation Mono" style:font-size-asian="21pt" style:font-name-complex="Liberation Mono" style:font-size-complex="21pt"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-size="13pt" fo:font-weight="bold" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T23" style:family="text">
-   <style:text-properties fo:font-size="32pt" fo:font-weight="normal" style:font-size-asian="32pt" style:font-weight-asian="normal" style:font-size-complex="32pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#2a6099" loext:opacity="100%" style:font-name="Liberation Mono" fo:font-size="13pt" fo:font-weight="bold" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T24" style:family="text">
-   <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" fo:font-weight="bold"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-size="13pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T25" style:family="text">
-   <style:text-properties fo:color="#999999" loext:opacity="100%" style:font-name="Noto Sans" fo:font-size="16pt" style:text-underline-style="none" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="24pt" fo:font-weight="bold" fo:background-color="transparent" style:font-size-asian="24pt" style:font-weight-asian="bold" style:font-size-complex="24pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T26" style:family="text">
-   <style:text-properties fo:color="#666666" loext:opacity="100%" style:font-name="Noto Sans" fo:font-size="12pt" style:text-underline-style="none" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="26pt" fo:font-weight="bold" fo:background-color="transparent" style:font-size-asian="26pt" style:font-weight-asian="bold" style:font-size-complex="26pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T27" style:family="text">
-   <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T28" style:family="text">
-   <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Sans" fo:font-size="21pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="21pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="21pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T29" style:family="text">
-   <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
   <style:style style:name="T30" style:family="text">
+   <style:text-properties style:font-name="Noto Sans" fo:font-size="21pt" fo:background-color="transparent" style:font-size-asian="21pt" style:font-size-complex="21pt"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
+   <style:text-properties style:font-name="Noto Sans" fo:font-size="21pt" fo:background-color="#ffffff" style:font-size-asian="21pt" style:font-size-complex="21pt"/>
+  </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties style:font-name="Noto Sans" fo:font-size="21pt" style:font-name-asian="Liberation Mono1" style:font-size-asian="21pt" style:font-name-complex="Liberation Mono1" style:font-size-complex="21pt"/>
+  </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties style:font-name="Noto Sans" fo:font-size="21pt" fo:font-weight="bold" fo:background-color="transparent" style:font-size-asian="21pt" style:font-weight-asian="bold" style:font-size-complex="21pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Mono" fo:font-size="21pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="#dddddd" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="21pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="21pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T35" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Sans" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T36" style:family="text">
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="21pt" fo:background-color="#dddddd" style:font-name-asian="Liberation Mono1" style:font-size-asian="21pt" style:font-name-complex="Liberation Mono1" style:font-size-complex="21pt"/>
+  </style:style>
+  <style:style style:name="T37" style:family="text">
+   <style:text-properties fo:font-size="32pt" fo:font-weight="normal" style:font-size-asian="32pt" style:font-weight-asian="normal" style:font-size-complex="32pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T38" style:family="text">
+   <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="T39" style:family="text">
+   <style:text-properties fo:color="#999999" loext:opacity="100%" style:font-name="Noto Sans" fo:font-size="16pt" style:text-underline-style="none" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T40" style:family="text">
+   <style:text-properties fo:color="#666666" loext:opacity="100%" style:font-name="Noto Sans" fo:font-size="12pt" style:text-underline-style="none" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T41" style:family="text">
+   <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T42" style:family="text">
+   <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="T43" style:family="text">
+   <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="T44" style:family="text">
    <style:text-properties style:font-name="Noto Sans" fo:font-size="16pt" style:text-underline-style="none" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
   <text:list-style style:name="L1">
@@ -7451,7 +7568,7 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
     <text:p/>
     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
    </draw:custom-shape>
-   <draw:path draw:style-name="gr50" draw:text-style-name="P42" draw:layer="backgroundobjects" svg:width="2.286cm" svg:height="2.093cm" draw:transform="rotate (-1.35210657152001) translate (6.36189703764154cm 10.9757560254633cm)" svg:viewBox="0 0 2287 2094" svg:d="M0 2094c2342 0 2287-2094 2287-2094">
+   <draw:path draw:style-name="gr50" draw:text-style-name="P42" draw:layer="backgroundobjects" svg:width="2.286cm" svg:height="2.093cm" draw:transform="rotate (-1.35210657152001) translate (6.36189703764153cm 10.9757560254633cm)" svg:viewBox="0 0 2287 2094" svg:d="M0 2094c2342 0 2287-2094 2287-2094">
     <text:p/>
    </draw:path>
    <draw:path draw:style-name="gr50" draw:text-style-name="P42" draw:layer="backgroundobjects" svg:width="2.839cm" svg:height="0.905cm" draw:transform="rotate (2.6778586713349) translate (12.4006341652148cm 5.17071208098029cm)" svg:viewBox="0 0 2840 906" svg:d="M0 101c1136-568 1022 1477 2840 568">
@@ -7554,7 +7671,7 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
    </draw:custom-shape>
    <draw:g draw:style-name="gr3">
-    <draw:custom-shape draw:style-name="gr56" draw:text-style-name="P44" draw:layer="backgroundobjects" svg:width="3.81cm" svg:height="4.064cm" draw:transform="rotate (-1.55055050747176) translate (17.382cm 10.463cm)">
+    <draw:custom-shape draw:style-name="gr56" draw:text-style-name="P44" draw:layer="backgroundobjects" svg:width="3.81cm" svg:height="4.064cm" draw:transform="rotate (-1.55055050747176) translate (17.382cm 10.461cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="true" draw:mirror-vertical="true" draw:glue-points="?f6 0 10800 ?f8 ?f11 10800 ?f9 21600 10800 ?f10 ?f5 10800" draw:text-areas="?f3 ?f3 ?f4 ?f4" draw:type="parallelogram" draw:modifiers="10921.8577801102" draw:enhanced-path="M ?f0 0 L 21600 0 ?f1 21600 0 21600 Z N">
       <draw:equation draw:name="f0" draw:formula="$0 "/>
@@ -7574,7 +7691,7 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
       <draw:handle draw:handle-position="$0 top" draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr57" draw:text-style-name="P45" draw:layer="backgroundobjects" svg:width="3.81cm" svg:height="4.064cm" draw:transform="rotate (-1.55055050747176) translate (15.075cm 7.579cm)">
+    <draw:custom-shape draw:style-name="gr57" draw:text-style-name="P45" draw:layer="backgroundobjects" svg:width="3.81cm" svg:height="4.064cm" draw:transform="rotate (-1.55055050747176) translate (15.075cm 7.577cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="true" draw:mirror-vertical="true" draw:glue-points="?f6 0 10800 ?f8 ?f11 10800 ?f9 21600 10800 ?f10 ?f5 10800" draw:text-areas="?f3 ?f3 ?f4 ?f4" draw:type="parallelogram" draw:modifiers="10921.8577801102" draw:enhanced-path="M ?f0 0 L 21600 0 ?f1 21600 0 21600 Z N">
       <draw:equation draw:name="f0" draw:formula="$0 "/>
@@ -7594,7 +7711,7 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
       <draw:handle draw:handle-position="$0 top" draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr58" draw:text-style-name="P46" draw:layer="backgroundobjects" svg:width="3.81cm" svg:height="4.064cm" draw:transform="rotate (-1.55055050747176) translate (17.567cm 6.845cm)">
+    <draw:custom-shape draw:style-name="gr58" draw:text-style-name="P46" draw:layer="backgroundobjects" svg:width="3.81cm" svg:height="4.064cm" draw:transform="rotate (-1.55055050747176) translate (17.567cm 6.843cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="true" draw:mirror-vertical="true" draw:glue-points="?f6 0 10800 ?f8 ?f11 10800 ?f9 21600 10800 ?f10 ?f5 10800" draw:text-areas="?f3 ?f3 ?f4 ?f4" draw:type="parallelogram" draw:modifiers="10921.8577801102" draw:enhanced-path="M ?f0 0 L 21600 0 ?f1 21600 0 21600 Z N">
       <draw:equation draw:name="f0" draw:formula="$0 "/>
@@ -7614,7 +7731,7 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
       <draw:handle draw:handle-position="$0 top" draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr59" draw:text-style-name="P47" draw:layer="backgroundobjects" svg:width="3.81cm" svg:height="4.064cm" draw:transform="rotate (-1.55055050747176) translate (14.947cm 3.807cm)">
+    <draw:custom-shape draw:style-name="gr59" draw:text-style-name="P47" draw:layer="backgroundobjects" svg:width="3.81cm" svg:height="4.064cm" draw:transform="rotate (-1.55055050747176) translate (14.947cm 3.805cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="true" draw:mirror-vertical="true" draw:glue-points="?f6 0 10800 ?f8 ?f11 10800 ?f9 21600 10800 ?f10 ?f5 10800" draw:text-areas="?f3 ?f3 ?f4 ?f4" draw:type="parallelogram" draw:modifiers="10921.8577801102" draw:enhanced-path="M ?f0 0 L 21600 0 ?f1 21600 0 21600 Z N">
       <draw:equation draw:name="f0" draw:formula="$0 "/>
@@ -7634,7 +7751,7 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
       <draw:handle draw:handle-position="$0 top" draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr60" draw:text-style-name="P48" draw:layer="backgroundobjects" svg:width="3.81cm" svg:height="4.064cm" draw:transform="rotate (-1.55055050747176) translate (17.542cm 3.146cm)">
+    <draw:custom-shape draw:style-name="gr60" draw:text-style-name="P48" draw:layer="backgroundobjects" svg:width="3.81cm" svg:height="4.064cm" draw:transform="rotate (-1.55055050747176) translate (17.542cm 3.144cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="true" draw:mirror-vertical="true" draw:glue-points="?f6 0 10800 ?f8 ?f11 10800 ?f9 21600 10800 ?f10 ?f5 10800" draw:text-areas="?f3 ?f3 ?f4 ?f4" draw:type="parallelogram" draw:modifiers="10921.8577801102" draw:enhanced-path="M ?f0 0 L 21600 0 ?f1 21600 0 21600 Z N">
       <draw:equation draw:name="f0" draw:formula="$0 "/>
@@ -7654,7 +7771,7 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
       <draw:handle draw:handle-position="$0 top" draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr61" draw:text-style-name="P49" draw:layer="backgroundobjects" svg:width="3.81cm" svg:height="4.064cm" draw:transform="rotate (-1.55055050747176) translate (15.099cm 11.308cm)">
+    <draw:custom-shape draw:style-name="gr61" draw:text-style-name="P49" draw:layer="backgroundobjects" svg:width="3.81cm" svg:height="4.064cm" draw:transform="rotate (-1.55055050747176) translate (15.099cm 11.306cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="true" draw:mirror-vertical="true" draw:glue-points="?f6 0 10800 ?f8 ?f11 10800 ?f9 21600 10800 ?f10 ?f5 10800" draw:text-areas="?f3 ?f3 ?f4 ?f4" draw:type="parallelogram" draw:modifiers="10921.8577801102" draw:enhanced-path="M ?f0 0 L 21600 0 ?f1 21600 0 21600 Z N">
       <draw:equation draw:name="f0" draw:formula="$0 "/>
@@ -7931,7 +8048,7 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="true" draw:mirror-vertical="false" draw:glue-points="10800 0 0 10800 10800 21600 21600 10800" draw:text-areas="5600 7300 16000 14300" draw:type="puzzle" draw:enhanced-path="M 3822 20239 C 5451 20418 7281 21646 8714 20776 8865 20686 8964 20455 9019 20239 9071 20036 9053 19804 9019 19597 8966 19288 8781 19048 8714 18743 8601 18227 8526 17674 8560 17138 8584 16800 8662 16459 8790 16170 8923 15870 9117 15626 9326 15422 9578 15179 9865 14979 10164 14886 10338 14833 10527 14833 10701 14886 11112 15016 11507 15284 11846 15638 12122 15922 12397 16268 12534 16707 12687 17203 12716 17792 12641 18321 12586 18707 12368 19012 12246 19365 12151 19646 12009 19914 11983 20223 11962 20471 11930 20808 12070 20963 13488 22552 15695 20678 17507 20532 L 17542 20524 C 17438 17983 16101 14890 17235 12902 17345 12707 17586 12752 17762 12780 17983 12817 18174 13016 18374 13150 18627 13321 18844 13626 19120 13703 19497 13809 19917 13768 20271 13553 20584 13362 20831 12975 21034 12589 21286 12114 21477 11561 21570 10984 21608 10740 21608 10476 21570 10232 21504 9813 21361 9411 21187 9057 21042 8764 20868 8492 20654 8305 20448 8126 20204 8016 19964 7984 19581 7935 19186 8041 18818 8199 18601 8293 18429 8553 18209 8626 18061 8675 17896 8699 17751 8626 17597 8549 17432 8411 17368 8199 16747 6191 17623 3631 17751 1342 L 17722 1358 C 16089 1180 14262 -48 12829 822 12679 911 12580 1143 12525 1358 12473 1562 12490 1793 12525 2001 12577 2310 12763 2549 12829 2854 12942 3370 13018 3923 12983 4460 12960 4797 12882 5139 12754 5427 12621 5728 12426 5972 12217 6175 11965 6419 11678 6618 11379 6712 11205 6765 11017 6765 10843 6712 10431 6582 10037 6313 9697 5960 9422 5675 9146 5330 9010 4891 8856 4395 8827 3805 8903 3277 8958 2891 9175 2586 9297 2232 9393 1952 9535 1684 9561 1375 9581 1127 9613 789 9474 635 8056 -954 5849 924 4036 1066 L 4057 1127 C 4158 3667 5498 6760 4364 8748 4254 8943 4013 8899 3836 8870 3616 8833 3424 8634 3224 8500 2972 8329 2754 8025 2479 7947 2102 7842 1681 7882 1328 8098 1014 8289 768 8675 565 9061 312 9537 121 10089 28 10667 -9 10911 -9 11175 28 11419 95 11837 237 12240 411 12593 556 12886 730 13158 945 13345 1151 13524 1394 13634 1635 13666 2018 13715 2412 13610 2780 13451 2998 13358 3169 13097 3390 13024 3537 12975 3703 12951 3848 13024 4001 13101 4167 13240 4231 13451 4851 15459 3975 18024 3848 20308 L 3822 20239 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr77" draw:text-style-name="P61" draw:layer="backgroundobjects" svg:width="2.981cm" svg:height="2.129cm" svg:x="-0.695cm" svg:y="6.839cm">
+    <draw:custom-shape draw:style-name="gr77" draw:text-style-name="P61" draw:layer="backgroundobjects" svg:width="2.981cm" svg:height="2.129cm" svg:x="-0.697cm" svg:y="6.839cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="true" draw:mirror-vertical="false" draw:glue-points="10800 0 0 10800 10800 21600 21600 10800" draw:text-areas="5600 7300 16000 14300" draw:type="puzzle" draw:enhanced-path="M 3822 20239 C 5451 20418 7281 21646 8714 20776 8865 20686 8964 20455 9019 20239 9071 20036 9053 19804 9019 19597 8966 19288 8781 19048 8714 18743 8601 18227 8526 17674 8560 17138 8584 16800 8662 16459 8790 16170 8923 15870 9117 15626 9326 15422 9578 15179 9865 14979 10164 14886 10338 14833 10527 14833 10701 14886 11112 15016 11507 15284 11846 15638 12122 15922 12397 16268 12534 16707 12687 17203 12716 17792 12641 18321 12586 18707 12368 19012 12246 19365 12151 19646 12009 19914 11983 20223 11962 20471 11930 20808 12070 20963 13488 22552 15695 20678 17507 20532 L 17542 20524 C 17438 17983 16101 14890 17235 12902 17345 12707 17586 12752 17762 12780 17983 12817 18174 13016 18374 13150 18627 13321 18844 13626 19120 13703 19497 13809 19917 13768 20271 13553 20584 13362 20831 12975 21034 12589 21286 12114 21477 11561 21570 10984 21608 10740 21608 10476 21570 10232 21504 9813 21361 9411 21187 9057 21042 8764 20868 8492 20654 8305 20448 8126 20204 8016 19964 7984 19581 7935 19186 8041 18818 8199 18601 8293 18429 8553 18209 8626 18061 8675 17896 8699 17751 8626 17597 8549 17432 8411 17368 8199 16747 6191 17623 3631 17751 1342 L 17722 1358 C 16089 1180 14262 -48 12829 822 12679 911 12580 1143 12525 1358 12473 1562 12490 1793 12525 2001 12577 2310 12763 2549 12829 2854 12942 3370 13018 3923 12983 4460 12960 4797 12882 5139 12754 5427 12621 5728 12426 5972 12217 6175 11965 6419 11678 6618 11379 6712 11205 6765 11017 6765 10843 6712 10431 6582 10037 6313 9697 5960 9422 5675 9146 5330 9010 4891 8856 4395 8827 3805 8903 3277 8958 2891 9175 2586 9297 2232 9393 1952 9535 1684 9561 1375 9581 1127 9613 789 9474 635 8056 -954 5849 924 4036 1066 L 4057 1127 C 4158 3667 5498 6760 4364 8748 4254 8943 4013 8899 3836 8870 3616 8833 3424 8634 3224 8500 2972 8329 2754 8025 2479 7947 2102 7842 1681 7882 1328 8098 1014 8289 768 8675 565 9061 312 9537 121 10089 28 10667 -9 10911 -9 11175 28 11419 95 11837 237 12240 411 12593 556 12886 730 13158 945 13345 1151 13524 1394 13634 1635 13666 2018 13715 2412 13610 2780 13451 2998 13358 3169 13097 3390 13024 3537 12975 3703 12951 3848 13024 4001 13101 4167 13240 4231 13451 4851 15459 3975 18024 3848 20308 L 3822 20239 Z N"/>
     </draw:custom-shape>
@@ -8089,101 +8206,101 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
    </draw:custom-shape>
    <draw:g draw:style-name="gr3">
-    <draw:custom-shape draw:style-name="gr88" draw:text-style-name="P68" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (0.609cm 2.723cm)">
+    <draw:custom-shape draw:style-name="gr88" draw:text-style-name="P68" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (0.609cm 2.721cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr89" draw:text-style-name="P69" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (0.608cm 1.707cm)">
+    <draw:custom-shape draw:style-name="gr89" draw:text-style-name="P69" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (0.608cm 1.705cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr90" draw:text-style-name="P70" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (0.607cm 0.692cm)">
+    <draw:custom-shape draw:style-name="gr90" draw:text-style-name="P70" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (0.607cm 0.69cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr91" draw:text-style-name="P71" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (0.605cm -0.325cm)">
+    <draw:custom-shape draw:style-name="gr91" draw:text-style-name="P71" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (0.605cm -0.327cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr92" draw:text-style-name="P72" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (1.622cm -0.326cm)">
+    <draw:custom-shape draw:style-name="gr92" draw:text-style-name="P72" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (1.622cm -0.328cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr93" draw:text-style-name="P73" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (1.623cm 0.69cm)">
+    <draw:custom-shape draw:style-name="gr93" draw:text-style-name="P73" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (1.623cm 0.688cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr94" draw:text-style-name="P74" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (1.623cm 1.706cm)">
+    <draw:custom-shape draw:style-name="gr94" draw:text-style-name="P74" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (1.623cm 1.704cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr95" draw:text-style-name="P75" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (1.625cm 2.723cm)">
+    <draw:custom-shape draw:style-name="gr95" draw:text-style-name="P75" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (1.625cm 2.721cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr96" draw:text-style-name="P76" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (-0.407cm 2.724cm)">
+    <draw:custom-shape draw:style-name="gr96" draw:text-style-name="P76" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (-0.407cm 2.722cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr97" draw:text-style-name="P77" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (-0.409cm 1.709cm)">
+    <draw:custom-shape draw:style-name="gr97" draw:text-style-name="P77" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (-0.409cm 1.707cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr98" draw:text-style-name="P78" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (-0.409cm 0.692cm)">
+    <draw:custom-shape draw:style-name="gr98" draw:text-style-name="P78" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (-0.409cm 0.69cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr99" draw:text-style-name="P79" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (-0.41cm -0.324cm)">
+    <draw:custom-shape draw:style-name="gr99" draw:text-style-name="P79" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (-0.41cm -0.326cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
    </draw:g>
    <draw:g draw:style-name="gr3">
-    <draw:custom-shape draw:style-name="gr100" draw:text-style-name="P80" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (27.533cm 16.451cm)">
+    <draw:custom-shape draw:style-name="gr100" draw:text-style-name="P80" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (27.533cm 16.449cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr101" draw:text-style-name="P81" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (27.532cm 15.435cm)">
+    <draw:custom-shape draw:style-name="gr101" draw:text-style-name="P81" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (27.532cm 15.433cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr102" draw:text-style-name="P82" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (27.531cm 14.42cm)">
+    <draw:custom-shape draw:style-name="gr102" draw:text-style-name="P82" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (27.531cm 14.418cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr103" draw:text-style-name="P83" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (27.529cm 13.403cm)">
+    <draw:custom-shape draw:style-name="gr103" draw:text-style-name="P83" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (27.529cm 13.401cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr104" draw:text-style-name="P84" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (28.546cm 13.402cm)">
+    <draw:custom-shape draw:style-name="gr104" draw:text-style-name="P84" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (28.546cm 13.4cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr105" draw:text-style-name="P85" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (28.547cm 14.418cm)">
+    <draw:custom-shape draw:style-name="gr105" draw:text-style-name="P85" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (28.547cm 14.416cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr106" draw:text-style-name="P86" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (28.547cm 15.434cm)">
+    <draw:custom-shape draw:style-name="gr106" draw:text-style-name="P86" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (28.547cm 15.432cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr107" draw:text-style-name="P87" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (28.549cm 16.451cm)">
+    <draw:custom-shape draw:style-name="gr107" draw:text-style-name="P87" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (28.549cm 16.449cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr108" draw:text-style-name="P88" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (26.517cm 16.452cm)">
+    <draw:custom-shape draw:style-name="gr108" draw:text-style-name="P88" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (26.517cm 16.45cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr109" draw:text-style-name="P89" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (26.515cm 15.437cm)">
+    <draw:custom-shape draw:style-name="gr109" draw:text-style-name="P89" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (26.515cm 15.435cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr110" draw:text-style-name="P90" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (26.515cm 14.42cm)">
+    <draw:custom-shape draw:style-name="gr110" draw:text-style-name="P90" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (26.515cm 14.418cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr111" draw:text-style-name="P91" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (26.514cm 13.404cm)">
+    <draw:custom-shape draw:style-name="gr111" draw:text-style-name="P91" draw:layer="backgroundobjects" svg:width="0.508cm" svg:height="0.508cm" draw:transform="rotate (1.5695745963185) translate (26.514cm 13.402cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
@@ -8241,6 +8358,7 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
    </presentation:notes>
   </style:master-page>
   <style:master-page style:name="Image" style:page-layout-name="PM1" draw:style-name="dp1">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <loext:theme loext:name="Office">
     <loext:theme-colors loext:name="LibreOffice">
      <loext:color loext:name="dark1" loext:color="#000000"/>
@@ -8307,6 +8425,7 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM0">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:page-thumbnail presentation:style-name="Image-title" draw:layer="backgroundobjects" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" presentation:class="page"/>
     <draw:frame presentation:style-name="Image-notes" draw:layer="backgroundobjects" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
@@ -8548,6 +8667,168 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
    </draw:page>
    <draw:page draw:name="page4" draw:style-name="dp3" draw:master-page-name="Image" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr23" draw:layer="layout" svg:width="25.2cm" svg:height="2.629cm" svg:x="1.3cm" svg:y="0cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>Assembly</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr25" draw:layer="layout" svg:width="25.37cm" svg:height="11.505cm" svg:x="1.3cm" svg:y="2.629cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L3">
+       <text:list-item>
+        <text:p><text:span text:style-name="T11">Maschinensprache:</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T11">Befehl = Opcode + Daten,</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T11">Beispiel: GB-Z80, lade Wert 255 in Register A:</text:span><text:span text:style-name="T11"><text:line-break/></text:span><text:span text:style-name="T12">00111110 11111111</text:span><text:span text:style-name="T11"> bzw. </text:span><text:span text:style-name="T12">0x3E 0xFF</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T11">Assemblysprachen:</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p text:style-name="P102"><text:span text:style-name="T11">1:1-Beziehung zwischen Assemblycode und Maschinencode</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p text:style-name="P102"><text:span text:style-name="T11">Befehl = Mnemonic + Daten</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p text:style-name="P102"><text:span text:style-name="T11">Beispiel: RGBASM, lade Wert 255 in Register A:</text:span><text:span text:style-name="T11"><text:line-break/></text:span><text:span text:style-name="T12">LD A, $FF</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp3">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="4" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr24" draw:text-style-name="P100" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page5" draw:style-name="dp3" draw:master-page-name="Image" presentation:presentation-page-layout-name="AL2T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr23" draw:layer="layout" svg:width="25.2cm" svg:height="2.629cm" svg:x="1.3cm" svg:y="0cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>Assembly</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr25" draw:layer="layout" svg:width="25.37cm" svg:height="11.505cm" svg:x="1.3cm" svg:y="2.629cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L3">
+       <text:list-item>
+        <text:p text:style-name="P103"><text:span text:style-name="T11">Höhere Programmiersprachen (z. B. C, C++, Python, …):</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T11">Höherer Abstraktionsgrad, leichter verständlich</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T11">Beispiel (C): Kopiere die ersten </text:span><text:span text:style-name="T13">n</text:span><text:span text:style-name="T11"> Bytes von </text:span><text:span text:style-name="T12">source</text:span><text:span text:style-name="T11"> nach </text:span><text:span text:style-name="T12">destination</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr127" draw:text-style-name="P105" draw:layer="layout" svg:width="19.755cm" svg:height="4.482cm" svg:x="4.375cm" svg:y="8.348cm">
+     <draw:text-box>
+      <text:p text:style-name="P104"><text:span text:style-name="T14">void</text:span><text:span text:style-name="T15"> memcopy(uint8_t *destination, </text:span><text:span text:style-name="T14">const</text:span><text:span text:style-name="T15"> uint8_t *source, size_t n) {</text:span></text:p>
+      <text:p text:style-name="P104"><text:span text:style-name="T15"><text:tab/></text:span><text:span text:style-name="T14">int</text:span><text:span text:style-name="T15"> i;</text:span></text:p>
+      <text:p text:style-name="P104"><text:span text:style-name="T15"><text:tab/></text:span><text:span text:style-name="T14">for</text:span><text:span text:style-name="T15"> (i = 0; i &lt; n; i++) {</text:span></text:p>
+      <text:p text:style-name="P104"><text:span text:style-name="T15"><text:tab/></text:span><text:span text:style-name="T15"><text:tab/></text:span><text:span text:style-name="T15">destination[i] = source[i];</text:span></text:p>
+      <text:p text:style-name="P104"><text:span text:style-name="T15"><text:tab/></text:span><text:span text:style-name="T15">}</text:span></text:p>
+      <text:p text:style-name="P104"><text:span text:style-name="T15">}</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp3">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="5" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr24" draw:text-style-name="P100" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page6" draw:style-name="dp3" draw:master-page-name="Image" presentation:presentation-page-layout-name="AL2T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame draw:style-name="gr127" draw:text-style-name="P105" draw:layer="layout" svg:width="19.685cm" svg:height="4.482cm" svg:x="4.445cm" svg:y="0.635cm">
+     <draw:text-box>
+      <text:p text:style-name="P104"><text:span text:style-name="T14">void</text:span><text:span text:style-name="T15"> memcopy(uint8_t *destination, </text:span><text:span text:style-name="T14">const</text:span><text:span text:style-name="T15"> uint8_t *source, size_t n) {</text:span></text:p>
+      <text:p text:style-name="P104"><text:span text:style-name="T15"><text:tab/></text:span><text:span text:style-name="T14">int</text:span><text:span text:style-name="T15"> i;</text:span></text:p>
+      <text:p text:style-name="P104"><text:span text:style-name="T15"><text:tab/></text:span><text:span text:style-name="T14">for</text:span><text:span text:style-name="T15"> (i = 0; i &lt; n; i++) {</text:span></text:p>
+      <text:p text:style-name="P104"><text:span text:style-name="T15"><text:tab/></text:span><text:span text:style-name="T15"><text:tab/></text:span><text:span text:style-name="T15">destination[i] = source[i];</text:span></text:p>
+      <text:p text:style-name="P104"><text:span text:style-name="T15"><text:tab/></text:span><text:span text:style-name="T15">}</text:span></text:p>
+      <text:p text:style-name="P104"><text:span text:style-name="T15">}</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr128" draw:text-style-name="P108" draw:layer="layout" svg:width="10.467cm" svg:height="9.646cm" svg:x="4.445cm" svg:y="5.715cm">
+     <draw:text-box>
+      <text:p text:style-name="P106"><text:span text:style-name="T16">; rsi: source</text:span></text:p>
+      <text:p text:style-name="P106"><text:span text:style-name="T16">; rdi: destination</text:span></text:p>
+      <text:p text:style-name="P106"><text:span text:style-name="T16">; rdx: n</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T17">memcopy:</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T17"><text:tab/></text:span><text:span text:style-name="T18">test</text:span><text:span text:style-name="T17"> rdx, rdx</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T17"><text:tab/></text:span><text:span text:style-name="T18">je</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T19">.L1</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T17"><text:tab/></text:span><text:span text:style-name="T18">mov</text:span><text:span text:style-name="T17"> eax, </text:span><text:span text:style-name="T16">0</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T17">.L3:</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T17"><text:tab/></text:span><text:span text:style-name="T18">movzx</text:span><text:span text:style-name="T17"> ecx, </text:span><text:span text:style-name="T16">BYTE</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T20">PTR</text:span><text:span text:style-name="T17"> [rsi+rax]</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T17"><text:tab/></text:span><text:span text:style-name="T18">mov</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T16">BYTE</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T20">PTR</text:span><text:span text:style-name="T17"> [rdi+rax], cl</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T17"><text:tab/></text:span><text:span text:style-name="T18">add</text:span><text:span text:style-name="T17"> rax, </text:span><text:span text:style-name="T16">1</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T17"><text:tab/></text:span><text:span text:style-name="T18">cmp</text:span><text:span text:style-name="T17"> rdx, rax</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T17"><text:tab/></text:span><text:span text:style-name="T18">jne</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T19">.L3</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T17">.L1:</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T17"><text:tab/></text:span><text:span text:style-name="T18">ret</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr129" draw:text-style-name="P110" draw:layer="layout" svg:width="6.985cm" svg:height="8.775cm" svg:x="20.32cm" svg:y="6.35cm">
+     <draw:text-box>
+      <text:p text:style-name="P109"><text:span text:style-name="T21">; de: source</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T21">; hl: destination</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T21">; bc: n</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T21">; only call with bc &gt; 0</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T21">; destroys a</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T22">memcopy::</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T22"><text:tab/></text:span><text:span text:style-name="T23">ld</text:span><text:span text:style-name="T22"> a, [de]</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T22"><text:tab/></text:span><text:span text:style-name="T23">ld</text:span><text:span text:style-name="T22"> [hli], a</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T22"><text:tab/></text:span><text:span text:style-name="T23">inc</text:span><text:span text:style-name="T22"> de</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T22"><text:tab/></text:span><text:span text:style-name="T23">dec</text:span><text:span text:style-name="T22"> bc</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T22"><text:tab/></text:span><text:span text:style-name="T23">ld</text:span><text:span text:style-name="T22"> a, b</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T22"><text:tab/></text:span><text:span text:style-name="T23">or</text:span><text:span text:style-name="T22"> a, c</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T22"><text:tab/></text:span><text:span text:style-name="T23">jp</text:span><text:span text:style-name="T22"> nz, m</text:span><text:span text:style-name="T24">emcopy</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T22"><text:tab/></text:span><text:span text:style-name="T23">ret</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr130" draw:text-style-name="P112" draw:layer="layout" svg:width="1.27cm" svg:height="1.851cm" svg:x="1.905cm" svg:y="1.959cm">
+     <draw:text-box>
+      <text:p text:style-name="P111"><text:span text:style-name="T25">C</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr131" draw:text-style-name="P114" draw:layer="layout" svg:width="3.81cm" svg:height="2.892cm" svg:x="0.635cm" svg:y="8.89cm">
+     <draw:text-box>
+      <text:p text:style-name="P113"><text:span text:style-name="T26">x86-64</text:span></text:p>
+      <text:p text:style-name="P113"><text:span text:style-name="T26">ASM</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr132" draw:text-style-name="P114" draw:layer="layout" svg:width="5.715cm" svg:height="4.975cm" svg:x="14.912cm" svg:y="8.89cm">
+     <draw:text-box>
+      <text:p text:style-name="P113"><text:span text:style-name="T26">GB-Z80</text:span></text:p>
+      <text:p text:style-name="P113"><text:span text:style-name="T26">RGBASM</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp3">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="6" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr24" draw:text-style-name="P100" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page7" draw:style-name="dp3" draw:master-page-name="Image" presentation:presentation-page-layout-name="AL2T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:polygon draw:style-name="gr126" draw:text-style-name="P101" draw:layer="layout" svg:width="11.372cm" svg:height="11.372cm" svg:x="16.315cm" svg:y="3.307cm" svg:viewBox="0 0 11373 11373" draw:points="0,5726 5646,0 11373,5648 5727,11373 5725,11373 0,5728">
      <text:p/>
     </draw:polygon>
@@ -8557,13 +8838,13 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="4" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="7" presentation:class="page"/>
      <draw:frame presentation:style-name="pr24" draw:text-style-name="P96" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page5" draw:style-name="dp3" draw:master-page-name="Image" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page8" draw:style-name="dp3" draw:master-page-name="Image" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr23" draw:layer="layout" svg:width="25.2cm" svg:height="2.629cm" svg:x="1.3cm" svg:y="0cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
@@ -8574,24 +8855,24 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-header>
-        <text:p><text:span text:style-name="T11">RGBDS (MIT License): Assembler/Linker</text:span></text:p>
+        <text:p><text:span text:style-name="T27">RGBDS (MIT License): Assembler/Linker</text:span></text:p>
        </text:list-header>
        <text:list-item>
-        <text:p><text:span text:style-name="T12">Installation (</text:span><text:span text:style-name="T12"><text:a xlink:href="https://github.com/gbdev/rgbds" xlink:type="simple">https://github.com/gbdev/rgbds</text:a></text:span><text:span text:style-name="T12">)</text:span></text:p>
+        <text:p><text:span text:style-name="T11">Installation (</text:span><text:span text:style-name="T11"><text:a xlink:href="https://github.com/gbdev/rgbds" xlink:type="simple">https://github.com/gbdev/rgbds</text:a></text:span><text:span text:style-name="T11">)</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T13">Download </text:span><text:span text:style-name="T14"><text:a xlink:href="https://github.com/gbdev/rgbds/releases/latest/download/rgbds-linux-x86_64.tar.xz" xlink:type="simple">https://github.com/gbdev/rgbds/releases/latest/download/rgbds-linux-x86_64.tar.xz</text:a></text:span></text:p>
+          <text:p><text:span text:style-name="T28">Download </text:span><text:span text:style-name="T29"><text:a xlink:href="https://github.com/gbdev/rgbds/releases/latest/download/rgbds-linux-x86_64.tar.xz" xlink:type="simple">https://github.com/gbdev/rgbds/releases/latest/download/rgbds-linux-x86_64.tar.xz</text:a></text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T12">Extrahieren und </text:span><text:span text:style-name="T15">install.sh</text:span><text:span text:style-name="T12"> ausführen (braucht z. B. </text:span><text:span text:style-name="T15">binutils</text:span><text:span text:style-name="T12">)</text:span></text:p>
+          <text:p><text:span text:style-name="T11">Extrahieren und </text:span><text:span text:style-name="T12">install.sh</text:span><text:span text:style-name="T11"> ausführen (braucht z. B. </text:span><text:span text:style-name="T12">binutils</text:span><text:span text:style-name="T11">)</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T16">Testen: Kommando &gt; </text:span><text:span text:style-name="T15">rgbasm -V</text:span></text:p>
+        <text:p><text:span text:style-name="T30">Testen: Kommando &gt; </text:span><text:span text:style-name="T12">rgbasm -V</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T17">Sollte zurückgeben: </text:span><text:span text:style-name="T15">rgbasm v1.0.1</text:span></text:p>
+          <text:p><text:span text:style-name="T31">Sollte zurückgeben: </text:span><text:span text:style-name="T12">rgbasm v1.0.1</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -8936,13 +9217,13 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      </draw:image>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="5" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="8" presentation:class="page"/>
      <draw:frame presentation:style-name="pr24" draw:text-style-name="P100" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page6" draw:style-name="dp3" draw:master-page-name="Image" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page9" draw:style-name="dp3" draw:master-page-name="Image" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr23" draw:layer="layout" svg:width="25.2cm" svg:height="2.629cm" svg:x="1.3cm" svg:y="0cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
@@ -8953,24 +9234,24 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-header>
-        <text:p><text:span text:style-name="T11">Gearboy (GPL-3.0 License): Emulator/Debugger</text:span></text:p>
+        <text:p><text:span text:style-name="T27">Gearboy (GPL-3.0 License): </text:span><text:span text:style-name="T27">Emulator/Debugger</text:span></text:p>
        </text:list-header>
        <text:list-item>
-        <text:p><text:span text:style-name="T12">Installation</text:span><text:span text:style-name="T12"><text:line-break/></text:span><text:span text:style-name="T12">(</text:span><text:span text:style-name="T12"><text:a xlink:href="https://github.com/drhelius/Gearboy/" xlink:type="simple">https://github.com/drhelius/Gearboy/</text:a></text:span><text:span text:style-name="T12">)</text:span></text:p>
+        <text:p><text:span text:style-name="T11">Installation</text:span><text:span text:style-name="T11"><text:line-break/></text:span><text:span text:style-name="T11">(</text:span><text:span text:style-name="T11"><text:a xlink:href="https://github.com/drhelius/Gearboy/" xlink:type="simple">https://github.com/drhelius/Gearboy/</text:a></text:span><text:span text:style-name="T11">)</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T12">Snap:</text:span><text:span text:style-name="T12"><text:line-break/></text:span><text:span text:style-name="T15">snap install gearboy</text:span></text:p>
+          <text:p><text:span text:style-name="T11">Snap:</text:span><text:span text:style-name="T11"><text:line-break/></text:span><text:span text:style-name="T12">snap install gearboy</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p text:style-name="P93"><text:span text:style-name="T18">Aura:</text:span><text:span text:style-name="T18"><text:line-break/></text:span><text:span text:style-name="T18">siehe </text:span><text:span text:style-name="T18"><text:a xlink:href="https://aur.archlinux.org/packages/gearboy" xlink:type="simple">https://aur.archlinux.org/packages/gearboy</text:a></text:span></text:p>
+          <text:p text:style-name="P93"><text:span text:style-name="T32">Aura:</text:span><text:span text:style-name="T32"><text:line-break/></text:span><text:span text:style-name="T32">siehe </text:span><text:span text:style-name="T32"><text:a xlink:href="https://aur.archlinux.org/packages/gearboy" xlink:type="simple">https://aur.archlinux.org/packages/gearboy</text:a></text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T12">Direkter Download: </text:span><text:span text:style-name="T12"><text:a xlink:href="https://github.com/drhelius/Gearboy/releases/tag/3.7.5" xlink:type="simple">https://github.com/drhelius/Gearboy/releases/tag/3.7.5</text:a></text:span></text:p>
+          <text:p><text:span text:style-name="T11">Direkter Download: </text:span><text:span text:style-name="T11"><text:a xlink:href="https://github.com/drhelius/Gearboy/releases/tag/3.7.5" xlink:type="simple">https://github.com/drhelius/Gearboy/releases/tag/3.7.5</text:a></text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T16">Alternativ (free-to-use, aber </text:span><text:span text:style-name="T19">nicht quelloffen</text:span><text:span text:style-name="T16">): </text:span><text:span text:style-name="T16"><text:a xlink:href="https://emulicious.net/" xlink:type="simple">https://emulicious.net/</text:a></text:span></text:p>
+        <text:p><text:span text:style-name="T30">Alternativ (free-to-use, aber </text:span><text:span text:style-name="T33">nicht quelloffen</text:span><text:span text:style-name="T30">): </text:span><text:span text:style-name="T30"><text:a xlink:href="https://emulicious.net/" xlink:type="simple">https://emulicious.net/</text:a></text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -9855,13 +10136,13 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      </draw:image>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="6" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="9" presentation:class="page"/>
      <draw:frame presentation:style-name="pr24" draw:text-style-name="P100" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page7" draw:style-name="dp3" draw:master-page-name="Image" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page10" draw:style-name="dp3" draw:master-page-name="Image" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr23" draw:layer="layout" svg:width="25.2cm" svg:height="2.629cm" svg:x="1.3cm" svg:y="0cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
@@ -9872,27 +10153,27 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-header>
-        <text:p><text:span text:style-name="T11">make: Build-Management</text:span></text:p>
+        <text:p><text:span text:style-name="T27">make: Build-Management</text:span></text:p>
        </text:list-header>
        <text:list-item>
-        <text:p><text:span text:style-name="T12">Installation (</text:span><text:span text:style-name="T12"><text:a xlink:href="https://github.com/drhelius/Gearboy/" xlink:type="simple">https://github.com/drhelius/Gearboy/</text:a></text:span><text:span text:style-name="T12">)</text:span></text:p>
+        <text:p><text:span text:style-name="T11">Installation (</text:span><text:span text:style-name="T11"><text:a xlink:href="https://github.com/drhelius/Gearboy/" xlink:type="simple">https://github.com/drhelius/Gearboy/</text:a></text:span><text:span text:style-name="T11">)</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T12">Apt:</text:span><text:span text:style-name="T12"><text:line-break/></text:span><text:span text:style-name="T15">sudo apt install make</text:span></text:p>
+          <text:p><text:span text:style-name="T11">Apt:</text:span><text:span text:style-name="T11"><text:line-break/></text:span><text:span text:style-name="T12">sudo apt install make</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p text:style-name="P93"><text:span text:style-name="T18">Arch: siehe </text:span><text:span text:style-name="T18"><text:a xlink:href="https://archlinux.org/packages/core/x86_64/make/" xlink:type="simple">https://archlinux.org/packages/core/x86_64/make/</text:a></text:span></text:p>
+          <text:p text:style-name="P93"><text:span text:style-name="T32">Arch: siehe </text:span><text:span text:style-name="T32"><text:a xlink:href="https://archlinux.org/packages/core/x86_64/make/" xlink:type="simple">https://archlinux.org/packages/core/x86_64/make/</text:a></text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T12">Fedora: siehe </text:span><text:span text:style-name="T12"><text:a xlink:href="https://packages.fedoraproject.org/pkgs/make/make/index.html" xlink:type="simple">https://packages.fedoraproject.org/pkgs/make/make/index.html</text:a></text:span></text:p>
+          <text:p><text:span text:style-name="T11">Fedora: siehe </text:span><text:span text:style-name="T11"><text:a xlink:href="https://packages.fedoraproject.org/pkgs/make/make/index.html" xlink:type="simple">https://packages.fedoraproject.org/pkgs/make/make/index.html</text:a></text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P102"><text:span text:style-name="T13">Testen: Kommando </text:span><text:span text:style-name="T15">make -v</text:span></text:p>
+        <text:p text:style-name="P102"><text:span text:style-name="T28">Testen: Kommando </text:span><text:span text:style-name="T12">make -v</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p text:style-name="P102"><text:span text:style-name="T13">Sollte zurückgeben: z. B. </text:span><text:span text:style-name="T20">GNU Make 4.3</text:span></text:p>
+          <text:p text:style-name="P102"><text:span text:style-name="T28">Sollte zurückgeben: z. B. </text:span><text:span text:style-name="T34">GNU Make 4.3</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -9900,13 +10181,13 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="7" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="10" presentation:class="page"/>
      <draw:frame presentation:style-name="pr24" draw:text-style-name="P100" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page8" draw:style-name="dp3" draw:master-page-name="Image" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page11" draw:style-name="dp3" draw:master-page-name="Image" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr23" draw:layer="layout" svg:width="25.2cm" svg:height="2.629cm" svg:x="1.3cm" svg:y="0cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
@@ -9917,27 +10198,27 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-header>
-        <text:p text:style-name="P103"><text:span text:style-name="T21">Text Editor, z. B. </text:span><text:span text:style-name="T11">VSCodium (MIT License)</text:span></text:p>
+        <text:p text:style-name="P103"><text:span text:style-name="T35">Text Editor, z. B. </text:span><text:span text:style-name="T27">VSCodium (MIT License)</text:span></text:p>
        </text:list-header>
        <text:list-item>
-        <text:p><text:span text:style-name="T12">Installation (</text:span><text:span text:style-name="T12"><text:a xlink:href="https://vscodium.com/" xlink:type="simple">https://vscodium.com/</text:a></text:span><text:span text:style-name="T12">)</text:span></text:p>
+        <text:p><text:span text:style-name="T11">Installation (</text:span><text:span text:style-name="T11"><text:a xlink:href="https://vscodium.com/" xlink:type="simple">https://vscodium.com/</text:a></text:span><text:span text:style-name="T11">)</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T12">Snap:</text:span><text:span text:style-name="T12"><text:line-break/></text:span><text:span text:style-name="T15">snap install codium --classic</text:span></text:p>
+          <text:p><text:span text:style-name="T11">Snap:</text:span><text:span text:style-name="T11"><text:line-break/></text:span><text:span text:style-name="T12">snap install codium --classic</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p text:style-name="P93"><text:span text:style-name="T18">Aura:</text:span><text:span text:style-name="T18"><text:line-break/></text:span><text:span text:style-name="T22">sudo aura -A vscodium-bin</text:span></text:p>
+          <text:p text:style-name="P93"><text:span text:style-name="T32">Aura:</text:span><text:span text:style-name="T32"><text:line-break/></text:span><text:span text:style-name="T36">sudo aura -A vscodium-bin</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T12">Flatpak:</text:span><text:span text:style-name="T12"><text:line-break/></text:span><text:span text:style-name="T15">flatpak install flathub com.vscodium.codium</text:span></text:p>
+          <text:p><text:span text:style-name="T11">Flatpak:</text:span><text:span text:style-name="T11"><text:line-break/></text:span><text:span text:style-name="T12">flatpak install flathub com.vscodium.codium</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T16">RGBDS-Extension (MIT License): </text:span><text:span text:style-name="T16"><text:a xlink:href="https://github.com/DonaldHays/rgbds-vscode" xlink:type="simple">https://github.com/DonaldHays/rgbds-vscode</text:a></text:span></text:p>
+        <text:p><text:span text:style-name="T30">RGBDS-Extension (MIT License): </text:span><text:span text:style-name="T30"><text:a xlink:href="https://github.com/DonaldHays/rgbds-vscode" xlink:type="simple">https://github.com/DonaldHays/rgbds-vscode</text:a></text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T16">File &gt; Preferences &gt; Extensions</text:span></text:p>
+          <text:p><text:span text:style-name="T30">File &gt; Preferences &gt; Extensions</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -10282,13 +10563,13 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      </draw:image>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="8" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="11" presentation:class="page"/>
      <draw:frame presentation:style-name="pr24" draw:text-style-name="P100" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page9" draw:style-name="dp3" draw:master-page-name="Image" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page12" draw:style-name="dp3" draw:master-page-name="Image" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:polygon draw:style-name="gr126" draw:text-style-name="P101" draw:layer="layout" svg:width="11.372cm" svg:height="11.372cm" svg:x="16.315cm" svg:y="3.307cm" svg:viewBox="0 0 11373 11373" draw:points="0,5726 5646,0 11373,5648 5727,11373 5725,11373 0,5728">
      <text:p/>
@@ -10298,19 +10579,19 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
       <text:p><text:span text:style-name="T10">03. Pause</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr26" draw:text-style-name="P104" draw:layer="layout" svg:width="25.2cm" svg:height="3.075cm" svg:x="-2.975cm" svg:y="6.673cm" presentation:class="title" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr26" draw:text-style-name="P115" draw:layer="layout" svg:width="25.2cm" svg:height="3.075cm" svg:x="-2.975cm" svg:y="6.673cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T23">(+ evtl. Troubleshooting)</text:span><text:span text:style-name="T23"><text:line-break/></text:span><text:span text:style-name="T23">16:30–17:00 </text:span></text:p>
+      <text:p><text:span text:style-name="T37">(+ evtl. Troubleshooting)</text:span><text:span text:style-name="T37"><text:line-break/></text:span><text:span text:style-name="T37">16:30–17:00 </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="9" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="12" presentation:class="page"/>
      <draw:frame presentation:style-name="pr24" draw:text-style-name="P96" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page10" draw:style-name="dp3" draw:master-page-name="Image" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page13" draw:style-name="dp3" draw:master-page-name="Image" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:polygon draw:style-name="gr126" draw:text-style-name="P101" draw:layer="layout" svg:width="11.372cm" svg:height="11.372cm" svg:x="16.315cm" svg:y="3.307cm" svg:viewBox="0 0 11373 11373" draw:points="0,5726 5646,0 11373,5648 5727,11373 5725,11373 0,5728">
      <text:p/>
@@ -10321,13 +10602,13 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="10" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="13" presentation:class="page"/>
      <draw:frame presentation:style-name="pr24" draw:text-style-name="P96" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page11" draw:style-name="dp3" draw:master-page-name="Table_20_of_20_Content" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page14" draw:style-name="dp3" draw:master-page-name="Table_20_of_20_Content" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr27" draw:layer="layout" svg:width="25.2cm" svg:height="2.629cm" svg:x="1.3cm" svg:y="1.3cm" presentation:class="title" presentation:placeholder="true">
      <draw:text-box/>
     </draw:frame>
@@ -10335,24 +10616,24 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      <draw:text-box/>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="11" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="14" presentation:class="page"/>
      <draw:frame presentation:style-name="pr29" draw:text-style-name="P100" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page12" draw:style-name="dp3" draw:master-page-name="Content_20_1" presentation:presentation-page-layout-name="AL2T1">
-    <draw:frame draw:style-name="gr127" draw:text-style-name="P105" draw:layer="layout" svg:width="6.6cm" svg:height="1.115cm" svg:x="2.286cm" svg:y="6.315cm">
+   <draw:page draw:name="page15" draw:style-name="dp3" draw:master-page-name="Content_20_1" presentation:presentation-page-layout-name="AL2T1">
+    <draw:frame draw:style-name="gr133" draw:text-style-name="P116" draw:layer="layout" svg:width="6.6cm" svg:height="1.115cm" svg:x="2.286cm" svg:y="6.315cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T24">Lorem Ipsum Dolor</text:span></text:p>
+      <text:p><text:span text:style-name="T38">Lorem Ipsum Dolor</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr128" draw:text-style-name="P107" draw:layer="layout" svg:width="16.256cm" svg:height="4.256cm" svg:x="3.048cm" svg:y="8.015cm">
+    <draw:frame draw:style-name="gr134" draw:text-style-name="P118" draw:layer="layout" svg:width="16.256cm" svg:height="4.256cm" svg:x="3.048cm" svg:y="8.015cm">
      <draw:text-box>
-      <text:p text:style-name="P106"><text:span text:style-name="T25">Id volutpat lacus laoreet non curabitur gravida arcu. Felis bibendum ut tristique et egestas quis ipsum suspendisse. Quam viverra orci sagittis eu. Risus commodo viverra maecenas accumsan lacus. Sit amet est placerat in egestas. Semper auctor neque vitae tempus quam pellentesque</text:span></text:p>
+      <text:p text:style-name="P117"><text:span text:style-name="T39">Id volutpat lacus laoreet non curabitur gravida arcu. Felis bibendum ut tristique et egestas quis ipsum suspendisse. Quam viverra orci sagittis eu. Risus commodo viverra maecenas accumsan lacus. Sit amet est placerat in egestas. Semper auctor neque vitae tempus quam pellentesque</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr129" draw:text-style-name="P108" draw:layer="layout" svg:width="0.254cm" svg:height="4.572cm" svg:x="2.54cm" svg:y="7.875cm">
+    <draw:custom-shape draw:style-name="gr135" draw:text-style-name="P119" draw:layer="layout" svg:width="0.254cm" svg:height="4.572cm" svg:x="2.54cm" svg:y="7.875cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
@@ -10360,82 +10641,82 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      <draw:text-box/>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="12" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="15" presentation:class="page"/>
      <draw:frame presentation:style-name="pr31" draw:text-style-name="P96" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page13" draw:style-name="dp3" draw:master-page-name="Content_20_2">
-    <draw:frame draw:style-name="gr130" draw:text-style-name="P110" draw:layer="layout" svg:width="9.398cm" svg:height="2.079cm" svg:x="0.254cm" svg:y="3.219cm">
+   <draw:page draw:name="page16" draw:style-name="dp3" draw:master-page-name="Content_20_2">
+    <draw:frame draw:style-name="gr136" draw:text-style-name="P121" draw:layer="layout" svg:width="9.398cm" svg:height="2.079cm" svg:x="0.254cm" svg:y="3.219cm">
      <draw:text-box>
-      <text:p text:style-name="P109"><text:span text:style-name="T26">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p text:style-name="P120"><text:span text:style-name="T40">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr127" draw:text-style-name="P112" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="4.064cm" svg:y="2.032cm">
+    <draw:frame draw:style-name="gr133" draw:text-style-name="P123" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="4.064cm" svg:y="2.032cm">
      <draw:text-box>
-      <text:p text:style-name="P111"><text:span text:style-name="T27">Lorem</text:span></text:p>
+      <text:p text:style-name="P122"><text:span text:style-name="T41">Lorem</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr131" draw:text-style-name="P110" draw:layer="layout" svg:width="9.398cm" svg:height="2.947cm" svg:x="0.305cm" svg:y="7.332cm">
+    <draw:frame draw:style-name="gr137" draw:text-style-name="P121" draw:layer="layout" svg:width="9.398cm" svg:height="2.947cm" svg:x="0.305cm" svg:y="7.332cm">
      <draw:text-box>
-      <text:p text:style-name="P109"><text:span text:style-name="T26">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p text:style-name="P120"><text:span text:style-name="T40">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr127" draw:text-style-name="P112" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="4.115cm" svg:y="6.145cm">
+    <draw:frame draw:style-name="gr133" draw:text-style-name="P123" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="4.115cm" svg:y="6.145cm">
      <draw:text-box>
-      <text:p text:style-name="P111"><text:span text:style-name="T27">Ipsum</text:span></text:p>
+      <text:p text:style-name="P122"><text:span text:style-name="T41">Ipsum</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr132" draw:text-style-name="P110" draw:layer="layout" svg:width="9.398cm" svg:height="2.079cm" svg:x="0.254cm" svg:y="11.383cm">
+    <draw:frame draw:style-name="gr138" draw:text-style-name="P121" draw:layer="layout" svg:width="9.398cm" svg:height="2.079cm" svg:x="0.254cm" svg:y="11.383cm">
      <draw:text-box>
-      <text:p text:style-name="P109"><text:span text:style-name="T26">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p text:style-name="P120"><text:span text:style-name="T40">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr127" draw:text-style-name="P112" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="4.064cm" svg:y="10.196cm">
+    <draw:frame draw:style-name="gr133" draw:text-style-name="P123" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="4.064cm" svg:y="10.196cm">
      <draw:text-box>
-      <text:p text:style-name="P111"><text:span text:style-name="T27">Dolor</text:span></text:p>
+      <text:p text:style-name="P122"><text:span text:style-name="T41">Dolor</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr133" draw:text-style-name="P114" draw:layer="layout" svg:width="9.398cm" svg:height="2.079cm" svg:x="18.534cm" svg:y="12.353cm">
+    <draw:frame draw:style-name="gr139" draw:text-style-name="P125" draw:layer="layout" svg:width="9.398cm" svg:height="2.079cm" svg:x="18.534cm" svg:y="12.353cm">
      <draw:text-box>
-      <text:p text:style-name="P113"><text:span text:style-name="T26">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p text:style-name="P124"><text:span text:style-name="T40">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr127" draw:text-style-name="P115" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="18.534cm" svg:y="11.166cm">
+    <draw:frame draw:style-name="gr133" draw:text-style-name="P126" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="18.534cm" svg:y="11.166cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T28">Consectetur</text:span></text:p>
+      <text:p><text:span text:style-name="T42">Consectetur</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr134" draw:text-style-name="P114" draw:layer="layout" svg:width="9.398cm" svg:height="2.079cm" svg:x="18.534cm" svg:y="8.307cm">
+    <draw:frame draw:style-name="gr140" draw:text-style-name="P125" draw:layer="layout" svg:width="9.398cm" svg:height="2.079cm" svg:x="18.534cm" svg:y="8.307cm">
      <draw:text-box>
-      <text:p text:style-name="P113"><text:span text:style-name="T26">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p text:style-name="P124"><text:span text:style-name="T40">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr127" draw:text-style-name="P115" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="18.534cm" svg:y="7.12cm">
+    <draw:frame draw:style-name="gr133" draw:text-style-name="P126" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="18.534cm" svg:y="7.12cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T28">Amet</text:span></text:p>
+      <text:p><text:span text:style-name="T42">Amet</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr135" draw:text-style-name="P114" draw:layer="layout" svg:width="9.398cm" svg:height="2.079cm" svg:x="18.534cm" svg:y="3.981cm">
+    <draw:frame draw:style-name="gr141" draw:text-style-name="P125" draw:layer="layout" svg:width="9.398cm" svg:height="2.079cm" svg:x="18.534cm" svg:y="3.981cm">
      <draw:text-box>
-      <text:p text:style-name="P113"><text:span text:style-name="T26">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p text:style-name="P124"><text:span text:style-name="T40">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr127" draw:text-style-name="P115" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="18.534cm" svg:y="2.794cm">
+    <draw:frame draw:style-name="gr133" draw:text-style-name="P126" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="18.534cm" svg:y="2.794cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T28">Sit</text:span></text:p>
+      <text:p><text:span text:style-name="T42">Sit</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="13" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="16" presentation:class="page"/>
      <draw:frame presentation:style-name="pr32" draw:text-style-name="P96" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page14" draw:style-name="dp3" draw:master-page-name="Bullet_20_1">
-    <draw:frame draw:style-name="gr136" draw:text-style-name="P32" draw:layer="layout" svg:width="2.173cm" svg:height="2.173cm" svg:x="3.302cm" svg:y="7.733cm">
+   <draw:page draw:name="page17" draw:style-name="dp3" draw:master-page-name="Bullet_20_1">
+    <draw:frame draw:style-name="gr142" draw:text-style-name="P32" draw:layer="layout" svg:width="2.173cm" svg:height="2.173cm" svg:x="3.302cm" svg:y="7.733cm">
      <draw:image draw:mime-type="image/svg+xml">
       <office:binary-data>PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZp
        ZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDBWMHoi
@@ -10455,31 +10736,31 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
       </office:binary-data>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr137" draw:text-style-name="P114" draw:layer="layout" svg:width="9.398cm" svg:height="2.079cm" svg:x="7.366cm" svg:y="12.41cm">
+    <draw:frame draw:style-name="gr143" draw:text-style-name="P125" draw:layer="layout" svg:width="9.398cm" svg:height="2.079cm" svg:x="7.366cm" svg:y="12.41cm">
      <draw:text-box>
-      <text:p text:style-name="P113"><text:span text:style-name="T26">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p text:style-name="P124"><text:span text:style-name="T40">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr127" draw:text-style-name="P115" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="7.366cm" svg:y="11.223cm">
+    <draw:frame draw:style-name="gr133" draw:text-style-name="P126" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="7.366cm" svg:y="11.223cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T28">03 Dolor</text:span></text:p>
+      <text:p><text:span text:style-name="T42">03 Dolor</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr138" draw:text-style-name="P110" draw:layer="layout" svg:width="9.66cm" svg:height="2.739cm" svg:x="0.5cm" svg:y="3.473cm">
+    <draw:frame draw:style-name="gr144" draw:text-style-name="P121" draw:layer="layout" svg:width="9.66cm" svg:height="2.739cm" svg:x="0.5cm" svg:y="3.473cm">
      <draw:text-box>
-      <text:p text:style-name="P109"><text:span text:style-name="T26">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p text:style-name="P120"><text:span text:style-name="T40">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr139" draw:text-style-name="P40" draw:layer="layout" svg:width="3.918cm" svg:height="3.81cm" svg:x="6.858cm" svg:y="2.286cm">
+    <draw:custom-shape draw:style-name="gr145" draw:text-style-name="P40" draw:layer="layout" svg:width="3.918cm" svg:height="3.81cm" svg:x="6.858cm" svg:y="2.286cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:frame draw:style-name="gr127" draw:text-style-name="P116" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="4.572cm" svg:y="2.286cm">
+    <draw:frame draw:style-name="gr133" draw:text-style-name="P127" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="4.572cm" svg:y="2.286cm">
      <draw:text-box>
-      <text:p text:style-name="P111"><text:span text:style-name="T28">01 Lorem</text:span></text:p>
+      <text:p text:style-name="P122"><text:span text:style-name="T42">01 Lorem</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr136" draw:text-style-name="P32" draw:layer="layout" svg:width="2.62cm" svg:height="2.904cm" svg:x="13.484cm" svg:y="4.928cm">
+    <draw:frame draw:style-name="gr142" draw:text-style-name="P32" draw:layer="layout" svg:width="2.62cm" svg:height="2.904cm" svg:x="13.484cm" svg:y="4.928cm">
      <draw:image draw:mime-type="image/svg+xml">
       <office:binary-data>PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZp
        ZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMTMgMTBIM2MtLjU1IDAt
@@ -10503,7 +10784,7 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
       </office:binary-data>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr136" draw:text-style-name="P32" draw:layer="layout" svg:width="2.568cm" svg:height="2.354cm" svg:x="19.124cm" svg:y="9.686cm">
+    <draw:frame draw:style-name="gr142" draw:text-style-name="P32" draw:layer="layout" svg:width="2.568cm" svg:height="2.354cm" svg:x="19.124cm" svg:y="9.686cm">
      <draw:image draw:mime-type="image/svg+xml">
       <office:binary-data>PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZp
        ZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDBWMHpt
@@ -10534,44 +10815,44 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
       </office:binary-data>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr140" draw:text-style-name="P110" draw:layer="layout" svg:width="7.62cm" svg:height="2.555cm" svg:x="17.526cm" svg:y="5.157cm">
+    <draw:frame draw:style-name="gr146" draw:text-style-name="P121" draw:layer="layout" svg:width="7.62cm" svg:height="2.555cm" svg:x="17.526cm" svg:y="5.157cm">
      <draw:text-box>
-      <text:p text:style-name="P109"><text:span text:style-name="T26">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p text:style-name="P120"><text:span text:style-name="T40">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr127" draw:text-style-name="P116" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="19.558cm" svg:y="3.97cm">
+    <draw:frame draw:style-name="gr133" draw:text-style-name="P127" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="19.558cm" svg:y="3.97cm">
      <draw:text-box>
-      <text:p text:style-name="P111"><text:span text:style-name="T28">02 Ipsum</text:span></text:p>
+      <text:p text:style-name="P122"><text:span text:style-name="T42">02 Ipsum</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="14" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="17" presentation:class="page"/>
      <draw:frame presentation:style-name="pr33" draw:text-style-name="P100" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page15" draw:style-name="dp3" draw:master-page-name="Jigsaw">
-    <draw:frame draw:style-name="gr141" draw:text-style-name="P117" draw:layer="layout" svg:width="10.668cm" svg:height="3.707cm" svg:x="11.938cm" svg:y="6.588cm">
+   <draw:page draw:name="page18" draw:style-name="dp3" draw:master-page-name="Jigsaw">
+    <draw:frame draw:style-name="gr147" draw:text-style-name="P128" draw:layer="layout" svg:width="10.668cm" svg:height="3.707cm" svg:x="11.938cm" svg:y="6.588cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T29">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p><text:span text:style-name="T43">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr142" draw:text-style-name="P118" draw:layer="layout" svg:width="4.318cm" svg:height="1.017cm" svg:x="11.992cm" svg:y="10.412cm">
+    <draw:frame draw:style-name="gr148" draw:text-style-name="P129" draw:layer="layout" svg:width="4.318cm" svg:height="1.017cm" svg:x="11.992cm" svg:y="10.412cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T30">- Loremus</text:span></text:p>
+      <text:p><text:span text:style-name="T44">- Loremus</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="15" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="18" presentation:class="page"/>
      <draw:frame presentation:style-name="pr34" draw:text-style-name="P96" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page16" draw:style-name="dp3" draw:master-page-name="Bullet_20_3" presentation:presentation-page-layout-name="AL3T19">
+   <draw:page draw:name="page19" draw:style-name="dp3" draw:master-page-name="Bullet_20_3" presentation:presentation-page-layout-name="AL3T19">
     <draw:g draw:style-name="gr21">
-     <draw:custom-shape draw:style-name="gr143" draw:text-style-name="P119" draw:layer="layout" svg:width="4.064cm" svg:height="4.064cm" svg:x="2.54cm" svg:y="5.842cm">
+     <draw:custom-shape draw:style-name="gr149" draw:text-style-name="P130" draw:layer="layout" svg:width="4.064cm" svg:height="4.064cm" svg:x="2.54cm" svg:y="5.842cm">
       <text:p/>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
@@ -10608,11 +10889,11 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      </draw:frame>
     </draw:g>
     <draw:g draw:style-name="gr21">
-     <draw:custom-shape draw:style-name="gr144" draw:text-style-name="P120" draw:layer="layout" svg:width="4.064cm" svg:height="4.064cm" svg:x="11.938cm" svg:y="5.842cm">
+     <draw:custom-shape draw:style-name="gr150" draw:text-style-name="P131" draw:layer="layout" svg:width="4.064cm" svg:height="4.064cm" svg:x="11.938cm" svg:y="5.842cm">
       <text:p/>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
-     <draw:frame draw:style-name="gr145" draw:text-style-name="P32" draw:layer="layout" svg:width="2.559cm" svg:height="2.559cm" svg:x="12.7cm" svg:y="6.585cm">
+     <draw:frame draw:style-name="gr151" draw:text-style-name="P32" draw:layer="layout" svg:width="2.559cm" svg:height="2.559cm" svg:x="12.7cm" svg:y="6.585cm">
       <draw:image draw:mime-type="image/svg+xml">
        <office:binary-data>PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZp
         ZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDBWMHoi
@@ -10642,7 +10923,7 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      </draw:frame>
     </draw:g>
     <draw:g draw:style-name="gr21">
-     <draw:custom-shape draw:style-name="gr146" draw:text-style-name="P121" draw:layer="layout" svg:width="4.064cm" svg:height="4.064cm" svg:x="21.028cm" svg:y="5.842cm">
+     <draw:custom-shape draw:style-name="gr152" draw:text-style-name="P132" draw:layer="layout" svg:width="4.064cm" svg:height="4.064cm" svg:x="21.028cm" svg:y="5.842cm">
       <text:p/>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
@@ -10671,46 +10952,46 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
       </draw:image>
      </draw:frame>
     </draw:g>
-    <draw:frame draw:style-name="gr127" draw:text-style-name="P122" draw:layer="layout" svg:width="3.556cm" svg:height="1.115cm" svg:x="2.794cm" svg:y="10.379cm">
+    <draw:frame draw:style-name="gr133" draw:text-style-name="P133" draw:layer="layout" svg:width="3.556cm" svg:height="1.115cm" svg:x="2.794cm" svg:y="10.379cm">
      <draw:text-box>
-      <text:p text:style-name="P95"><text:span text:style-name="T27">Lorem</text:span></text:p>
+      <text:p text:style-name="P95"><text:span text:style-name="T41">Lorem</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr127" draw:text-style-name="P122" draw:layer="layout" svg:width="3.556cm" svg:height="1.115cm" svg:x="12.192cm" svg:y="10.468cm">
+    <draw:frame draw:style-name="gr133" draw:text-style-name="P133" draw:layer="layout" svg:width="3.556cm" svg:height="1.115cm" svg:x="12.192cm" svg:y="10.468cm">
      <draw:text-box>
-      <text:p text:style-name="P95"><text:span text:style-name="T27">Ipsum</text:span></text:p>
+      <text:p text:style-name="P95"><text:span text:style-name="T41">Ipsum</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr127" draw:text-style-name="P122" draw:layer="layout" svg:width="3.556cm" svg:height="1.115cm" svg:x="21.282cm" svg:y="10.414cm">
+    <draw:frame draw:style-name="gr133" draw:text-style-name="P133" draw:layer="layout" svg:width="3.556cm" svg:height="1.115cm" svg:x="21.282cm" svg:y="10.414cm">
      <draw:text-box>
-      <text:p text:style-name="P95"><text:span text:style-name="T27">Dolor</text:span></text:p>
+      <text:p text:style-name="P95"><text:span text:style-name="T41">Dolor</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr147" draw:text-style-name="P123" draw:layer="layout" svg:width="7.984cm" svg:height="4.595cm" svg:x="1.016cm" svg:y="11.357cm">
-     <draw:text-box>
-      <text:p text:style-name="P95"><text:span text:style-name="T7">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="gr147" draw:text-style-name="P123" draw:layer="layout" svg:width="7.728cm" svg:height="4.595cm" svg:x="10cm" svg:y="11.358cm">
+    <draw:frame draw:style-name="gr153" draw:text-style-name="P134" draw:layer="layout" svg:width="7.984cm" svg:height="4.595cm" svg:x="1.016cm" svg:y="11.357cm">
      <draw:text-box>
       <text:p text:style-name="P95"><text:span text:style-name="T7">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr147" draw:text-style-name="P123" draw:layer="layout" svg:width="7.828cm" svg:height="4.595cm" svg:x="19cm" svg:y="11.359cm">
+    <draw:frame draw:style-name="gr153" draw:text-style-name="P134" draw:layer="layout" svg:width="7.728cm" svg:height="4.595cm" svg:x="10cm" svg:y="11.358cm">
+     <draw:text-box>
+      <text:p text:style-name="P95"><text:span text:style-name="T7">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr153" draw:text-style-name="P134" draw:layer="layout" svg:width="7.828cm" svg:height="4.595cm" svg:x="19cm" svg:y="11.359cm">
      <draw:text-box>
       <text:p text:style-name="P95"><text:span text:style-name="T7">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g draw:style-name="gr21">
-     <draw:custom-shape draw:style-name="gr148" draw:text-style-name="P119" draw:layer="layout" svg:width="0.762cm" svg:height="0.762cm" svg:x="12.349cm" svg:y="4.286cm">
+     <draw:custom-shape draw:style-name="gr154" draw:text-style-name="P130" draw:layer="layout" svg:width="0.762cm" svg:height="0.762cm" svg:x="12.349cm" svg:y="4.286cm">
       <text:p/>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
-     <draw:custom-shape draw:style-name="gr149" draw:text-style-name="P120" draw:layer="layout" svg:width="0.762cm" svg:height="0.762cm" svg:x="13.619cm" svg:y="4.286cm">
+     <draw:custom-shape draw:style-name="gr155" draw:text-style-name="P131" draw:layer="layout" svg:width="0.762cm" svg:height="0.762cm" svg:x="13.619cm" svg:y="4.286cm">
       <text:p/>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
-     <draw:custom-shape draw:style-name="gr150" draw:text-style-name="P121" draw:layer="layout" svg:width="0.762cm" svg:height="0.762cm" svg:x="14.889cm" svg:y="4.286cm">
+     <draw:custom-shape draw:style-name="gr156" draw:text-style-name="P132" draw:layer="layout" svg:width="0.762cm" svg:height="0.762cm" svg:x="14.889cm" svg:y="4.286cm">
       <text:p/>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
@@ -10719,13 +11000,13 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      <draw:text-box/>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="16" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="19" presentation:class="page"/>
      <draw:frame presentation:style-name="pr36" draw:text-style-name="P96" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page17" draw:style-name="dp3" draw:master-page-name="Image" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page20" draw:style-name="dp3" draw:master-page-name="Image" presentation:presentation-page-layout-name="AL2T1">
     <draw:polygon draw:style-name="gr126" draw:text-style-name="P101" draw:layer="layout" svg:width="11.372cm" svg:height="11.372cm" svg:x="16.315cm" svg:y="3.307cm" svg:viewBox="0 0 11373 11373" draw:points="0,5726 5646,0 11373,5648 5727,11373 5725,11373 0,5728">
      <text:p/>
     </draw:polygon>
@@ -10736,7 +11017,7 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      <draw:text-box/>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="17" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr120" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="20" presentation:class="page"/>
      <draw:frame presentation:style-name="pr24" draw:text-style-name="P96" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
