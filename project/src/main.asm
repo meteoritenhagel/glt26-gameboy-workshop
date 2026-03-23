@@ -35,6 +35,18 @@ EntryPoint:
 	ld [rBGP], a
 
 .loop
+	ld a, %11010100
+	ld [rBGP], a
+
+	ld a, 30
+	call WaitMultipleVBlank
+
+	ld a, %11100100  ; default palette white:light:dark:black
+	ld [rBGP], a
+
+	ld a, 30
+	call WaitMultipleVBlank
+
 	jp .loop
 
 

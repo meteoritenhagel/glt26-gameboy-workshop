@@ -10,10 +10,10 @@ wNewKeys:: db
 SECTION "Utility Functions", ROM0
 
 ; Copy bytes from one area to another.
-; Invalidates a.
 ; @param de: Source
 ; @param hl: Destination
 ; @param bc: Length
+; @destroys a
 Memcopy::
 	ld a, [de]
 	ld [hli], a
@@ -25,11 +25,11 @@ Memcopy::
 	ret
 
 ; Reads the button inputs.
-; Invalidates a and b.
 ; Updates the variables
 ;   wCurKeys with the currently pressed keys
 ;   wNewKeys with the keys that are now pressed that were not pressed before
 ; Taken from https://gbdev.io/gb-asm-tutorial/part2/input.html
+; @destroys a, b
 UpdateKeys::
 	; Poll half the controller
 	ld a, JOYP_GET_BUTTONS
@@ -66,9 +66,29 @@ UpdateKeys::
 	ret
 
 ; Waits until the next VBlank period.
-; Invalidates a.
+; @destroys a
 WaitVBlank::
+	; Wait until it's not VBlank
+	ld a, [rLY]
+	cp 144
+	jp nc, WaitVBlank  ; check if the vertical line >= 144, then we are in VBlank
+.loop
+	; Wait until VBlank and return
 	ld a, [rLY]  ; Copy the vertical line to a
-	cp 144  ; Check if the vertical line is 144
-	jp c, WaitVBlank  ; if yes, we can return, otherwise, wait for longer
-	ret
+	cp 144       ; Check if the vertical line < 144
+	jp c, .loop  ; if no, wait for longer
+	ret          ; otherwise, return
+
+
+; Waits a number of VBlank periods (1 VBlank is approx. 16.7 ms).
+; @param a: Number of VBlank periods to wait
+; @destroys b
+WaitMultipleVBlank::
+	and a
+.loop
+	ret z  ; if a is zero, exit
+	ld b, a
+	call WaitVBlank
+	ld a, b
+	dec a
+	jr .loop
