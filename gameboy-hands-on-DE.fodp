@@ -5,13 +5,13 @@
 
 Illustrations by Pixeltrue https://icons8.com/illustrations/author/5ec7b0e101d0360016f3d1b3 on icon8 (master slide &quot;Table of content&quot;)
 Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://unsplash.com/fr/licence (slide 9)
-    </dc:description><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:creation-date>2026-03-09T14:23:11.768862170</meta:creation-date><meta:editing-duration>PT22H54M53S</meta:editing-duration><meta:editing-cycles>32</meta:editing-cycles><dc:date>2026-03-23T19:35:44.863233341</dc:date><meta:document-statistic meta:object-count="473"/></office:meta>
+    </dc:description><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:creation-date>2026-03-09T14:23:11.768862170</meta:creation-date><meta:editing-duration>P1DT1H23M26S</meta:editing-duration><meta:editing-cycles>33</meta:editing-cycles><dc:date>2026-03-24T13:29:49.376334564</dc:date><meta:document-statistic meta:object-count="473"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">-7640</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-8830</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">41374</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">30559</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-1282</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-1771</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">25461</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">18806</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -33,16 +33,16 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">18</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">13</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-7640</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-8830</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">41375</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">30560</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-1282</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-1771</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">25462</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">18807</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">635</config:config-item>
@@ -4320,63 +4320,66 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Mono" fo:font-size="13pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T64" style:family="text">
-   <style:text-properties fo:color="#168253" loext:opacity="100%" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-weight="bold" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Mono" fo:font-size="13pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T65" style:family="text">
-   <style:text-properties style:font-name="Noto Mono" fo:font-size="13pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#168253" loext:opacity="100%" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-weight="bold" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T66" style:family="text">
-   <style:text-properties style:font-name="Noto Mono" fo:font-size="13pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="13pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T67" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#168253" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="13pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T68" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#168253" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T69" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-size="13pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T70" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-style="normal" fo:text-shadow="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-size="13pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T71" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#2a6099" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-style="normal" fo:text-shadow="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-style="normal" fo:text-shadow="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T72" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-style="normal" fo:text-shadow="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#2a6099" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-style="normal" fo:text-shadow="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T73" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-style="normal" fo:text-shadow="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T74" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T75" style:family="text">
-   <style:text-properties fo:color="#168253" loext:opacity="100%" style:font-name="Noto Mono" fo:font-size="13pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Noto Mono" fo:font-size="13pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T76" style:family="text">
-   <style:text-properties fo:font-size="32pt" fo:font-weight="normal" style:font-size-asian="32pt" style:font-weight-asian="normal" style:font-size-complex="32pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#168253" loext:opacity="100%" style:font-name="Noto Mono" fo:font-size="13pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T77" style:family="text">
-   <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" fo:font-weight="bold"/>
+   <style:text-properties fo:font-size="32pt" fo:font-weight="normal" style:font-size-asian="32pt" style:font-weight-asian="normal" style:font-size-complex="32pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T78" style:family="text">
-   <style:text-properties fo:color="#999999" loext:opacity="100%" style:font-name="Noto Sans" fo:font-size="16pt" style:text-underline-style="none" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+   <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" fo:font-weight="bold"/>
   </style:style>
   <style:style style:name="T79" style:family="text">
-   <style:text-properties fo:color="#666666" loext:opacity="100%" style:font-name="Noto Sans" fo:font-size="12pt" style:text-underline-style="none" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+   <style:text-properties fo:color="#999999" loext:opacity="100%" style:font-name="Noto Sans" fo:font-size="16pt" style:text-underline-style="none" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
   <style:style style:name="T80" style:family="text">
-   <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#666666" loext:opacity="100%" style:font-name="Noto Sans" fo:font-size="12pt" style:text-underline-style="none" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T81" style:family="text">
-   <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+   <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T82" style:family="text">
-   <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+   <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
   </style:style>
   <style:style style:name="T83" style:family="text">
+   <style:text-properties style:font-name="Noto Sans" fo:font-size="18pt" style:text-underline-style="none" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="T84" style:family="text">
    <style:text-properties style:font-name="Noto Sans" fo:font-size="16pt" style:text-underline-style="none" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
   <text:list-style style:name="L1">
@@ -41501,23 +41504,23 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
     </draw:frame>
     <draw:frame draw:style-name="gr139" draw:text-style-name="P111" draw:layer="layout" svg:width="22.225cm" svg:height="11.245cm" svg:x="3.81cm" svg:y="3.995cm">
      <draw:text-box>
-      <text:p text:style-name="P109"><text:span text:style-name="T42">CheckEqual::</text:span></text:p>
-      <text:p text:style-name="P109"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">ld</text:span><text:span text:style-name="T42"> a, [wVariable]</text:span></text:p>
-      <text:p text:style-name="P109"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">cp</text:span><text:span text:style-name="T42"> 5 <text:s text:c="21"/></text:span><text:span text:style-name="T56">; if [wVariable] == 5</text:span></text:p>
-      <text:p text:style-name="P109"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">call</text:span><text:span text:style-name="T42"> z, </text:span><text:span text:style-name="T44">VariableEqualFive</text:span><text:span text:style-name="T57"> </text:span><text:span text:style-name="T58">; call subroutine VariableEqualFive</text:span></text:p>
-      <text:p text:style-name="P109"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">ret</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T42">Ch</text:span><text:span text:style-name="T42">ec</text:span><text:span text:style-name="T42">kE</text:span><text:span text:style-name="T42">qu</text:span><text:span text:style-name="T42">al</text:span><text:span text:style-name="T42">::</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">ld</text:span><text:span text:style-name="T42"> </text:span><text:span text:style-name="T42">a, </text:span><text:span text:style-name="T42">[w</text:span><text:span text:style-name="T42">Va</text:span><text:span text:style-name="T42">ri</text:span><text:span text:style-name="T42">ab</text:span><text:span text:style-name="T42">le</text:span><text:span text:style-name="T42">]</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">cp</text:span><text:span text:style-name="T42"> </text:span><text:span text:style-name="T42">5 <text:s/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="2"/></text:span><text:span text:style-name="T56">; </text:span><text:span text:style-name="T56">if </text:span><text:span text:style-name="T56">[w</text:span><text:span text:style-name="T56">Va</text:span><text:span text:style-name="T56">ri</text:span><text:span text:style-name="T56">ab</text:span><text:span text:style-name="T56">le</text:span><text:span text:style-name="T56">] </text:span><text:span text:style-name="T56">== </text:span><text:span text:style-name="T56">5</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">ca</text:span><text:span text:style-name="T43">ll</text:span><text:span text:style-name="T42"> </text:span><text:span text:style-name="T42">z, </text:span><text:span text:style-name="T44">Va</text:span><text:span text:style-name="T44">ri</text:span><text:span text:style-name="T44">ab</text:span><text:span text:style-name="T44">le</text:span><text:span text:style-name="T44">Eq</text:span><text:span text:style-name="T44">ua</text:span><text:span text:style-name="T44">lF</text:span><text:span text:style-name="T44">iv</text:span><text:span text:style-name="T44">e</text:span><text:span text:style-name="T57"> </text:span><text:span text:style-name="T58">; </text:span><text:span text:style-name="T58">ca</text:span><text:span text:style-name="T58">ll </text:span><text:span text:style-name="T58">su</text:span><text:span text:style-name="T58">br</text:span><text:span text:style-name="T58">ou</text:span><text:span text:style-name="T58">ti</text:span><text:span text:style-name="T58">ne </text:span><text:span text:style-name="T58">Va</text:span><text:span text:style-name="T58">ri</text:span><text:span text:style-name="T58">ab</text:span><text:span text:style-name="T58">le</text:span><text:span text:style-name="T58">Eq</text:span><text:span text:style-name="T58">ua</text:span><text:span text:style-name="T58">lF</text:span><text:span text:style-name="T58">iv</text:span><text:span text:style-name="T58">e</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">re</text:span><text:span text:style-name="T43">t</text:span></text:p>
       <text:p text:style-name="P109"><text:span text:style-name="T43"/></text:p>
-      <text:p text:style-name="P107"><text:span text:style-name="T42">CheckLess::</text:span></text:p>
-      <text:p text:style-name="P107"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">ld</text:span><text:span text:style-name="T42"> a, [wVariable]</text:span></text:p>
-      <text:p text:style-name="P107"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">cp</text:span><text:span text:style-name="T42"> 5 <text:s text:c="20"/></text:span><text:span text:style-name="T56">; if [wVariable] &lt; 5</text:span></text:p>
-      <text:p text:style-name="P107"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">call</text:span><text:span text:style-name="T42"> c, </text:span><text:span text:style-name="T44">VariableLessFive</text:span><text:span text:style-name="T57"> </text:span><text:span text:style-name="T58">; call subroutine VariableLessFive</text:span></text:p>
-      <text:p text:style-name="P107"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">ret</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T42">Ch</text:span><text:span text:style-name="T42">ec</text:span><text:span text:style-name="T42">kL</text:span><text:span text:style-name="T42">es</text:span><text:span text:style-name="T42">s:</text:span><text:span text:style-name="T42">:</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">ld</text:span><text:span text:style-name="T42"> </text:span><text:span text:style-name="T42">a, </text:span><text:span text:style-name="T42">[w</text:span><text:span text:style-name="T42">Va</text:span><text:span text:style-name="T42">ri</text:span><text:span text:style-name="T42">ab</text:span><text:span text:style-name="T42">le</text:span><text:span text:style-name="T42">]</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">cp</text:span><text:span text:style-name="T42"> </text:span><text:span text:style-name="T42">5 <text:s/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s/></text:span><text:span text:style-name="T56">; </text:span><text:span text:style-name="T56">if </text:span><text:span text:style-name="T56">[w</text:span><text:span text:style-name="T56">Va</text:span><text:span text:style-name="T56">ri</text:span><text:span text:style-name="T56">ab</text:span><text:span text:style-name="T56">le</text:span><text:span text:style-name="T56">] </text:span><text:span text:style-name="T56">&lt; </text:span><text:span text:style-name="T56">5</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">ca</text:span><text:span text:style-name="T43">ll</text:span><text:span text:style-name="T42"> </text:span><text:span text:style-name="T42">c, </text:span><text:span text:style-name="T44">Va</text:span><text:span text:style-name="T44">ri</text:span><text:span text:style-name="T44">ab</text:span><text:span text:style-name="T44">le</text:span><text:span text:style-name="T44">Le</text:span><text:span text:style-name="T44">ss</text:span><text:span text:style-name="T44">Fi</text:span><text:span text:style-name="T44">ve</text:span><text:span text:style-name="T57"> </text:span><text:span text:style-name="T58">; </text:span><text:span text:style-name="T58">ca</text:span><text:span text:style-name="T58">ll </text:span><text:span text:style-name="T58">su</text:span><text:span text:style-name="T58">br</text:span><text:span text:style-name="T58">ou</text:span><text:span text:style-name="T58">ti</text:span><text:span text:style-name="T58">ne </text:span><text:span text:style-name="T58">Va</text:span><text:span text:style-name="T58">ri</text:span><text:span text:style-name="T58">ab</text:span><text:span text:style-name="T58">le</text:span><text:span text:style-name="T58">Le</text:span><text:span text:style-name="T58">ss</text:span><text:span text:style-name="T58">Fi</text:span><text:span text:style-name="T58">ve</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">re</text:span><text:span text:style-name="T43">t</text:span></text:p>
       <text:p text:style-name="P107"><text:span text:style-name="T43"/></text:p>
-      <text:p text:style-name="P107"><text:span text:style-name="T42">CheckGreaterOrEqual::</text:span></text:p>
-      <text:p text:style-name="P107"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">ld</text:span><text:span text:style-name="T42"> a, [wVariable]</text:span></text:p>
-      <text:p text:style-name="P107"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">cp</text:span><text:span text:style-name="T42"> 5 <text:s text:c="31"/></text:span><text:span text:style-name="T56">; if [wVariable] &gt;= 5</text:span></text:p>
-      <text:p text:style-name="P107"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">call</text:span><text:span text:style-name="T42"> nc, </text:span><text:span text:style-name="T44">VariableGreaterOrEqualFive</text:span><text:span text:style-name="T57"> </text:span><text:span text:style-name="T58">; call subroutine GreaterOrEqualFive</text:span></text:p>
-      <text:p text:style-name="P107"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">ret</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T42">Ch</text:span><text:span text:style-name="T42">ec</text:span><text:span text:style-name="T42">kG</text:span><text:span text:style-name="T42">re</text:span><text:span text:style-name="T42">at</text:span><text:span text:style-name="T42">er</text:span><text:span text:style-name="T42">Or</text:span><text:span text:style-name="T42">Eq</text:span><text:span text:style-name="T42">ua</text:span><text:span text:style-name="T42">l:</text:span><text:span text:style-name="T42">:</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">ld</text:span><text:span text:style-name="T42"> </text:span><text:span text:style-name="T42">a, </text:span><text:span text:style-name="T42">[w</text:span><text:span text:style-name="T42">Va</text:span><text:span text:style-name="T42">ri</text:span><text:span text:style-name="T42">ab</text:span><text:span text:style-name="T42">le</text:span><text:span text:style-name="T42">]</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">cp</text:span><text:span text:style-name="T42"> </text:span><text:span text:style-name="T42">5 <text:s/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T42"><text:s text:c="3"/></text:span><text:span text:style-name="T56">; </text:span><text:span text:style-name="T56">if </text:span><text:span text:style-name="T56">[w</text:span><text:span text:style-name="T56">Va</text:span><text:span text:style-name="T56">ri</text:span><text:span text:style-name="T56">ab</text:span><text:span text:style-name="T56">le</text:span><text:span text:style-name="T56">] </text:span><text:span text:style-name="T56">&gt;= </text:span><text:span text:style-name="T56">5</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">ca</text:span><text:span text:style-name="T43">ll</text:span><text:span text:style-name="T42"> </text:span><text:span text:style-name="T42">nc</text:span><text:span text:style-name="T42">, </text:span><text:span text:style-name="T44">Va</text:span><text:span text:style-name="T44">ri</text:span><text:span text:style-name="T44">ab</text:span><text:span text:style-name="T44">le</text:span><text:span text:style-name="T44">Gr</text:span><text:span text:style-name="T44">ea</text:span><text:span text:style-name="T44">te</text:span><text:span text:style-name="T44">rO</text:span><text:span text:style-name="T44">rE</text:span><text:span text:style-name="T44">qu</text:span><text:span text:style-name="T44">al</text:span><text:span text:style-name="T44">Fi</text:span><text:span text:style-name="T44">ve</text:span><text:span text:style-name="T57"> </text:span><text:span text:style-name="T58">; </text:span><text:span text:style-name="T58">ca</text:span><text:span text:style-name="T58">ll </text:span><text:span text:style-name="T58">su</text:span><text:span text:style-name="T58">br</text:span><text:span text:style-name="T58">ou</text:span><text:span text:style-name="T58">ti</text:span><text:span text:style-name="T58">ne </text:span><text:span text:style-name="T58">Gr</text:span><text:span text:style-name="T58">ea</text:span><text:span text:style-name="T58">te</text:span><text:span text:style-name="T58">rO</text:span><text:span text:style-name="T58">rE</text:span><text:span text:style-name="T58">qu</text:span><text:span text:style-name="T58">al</text:span><text:span text:style-name="T58">Fi</text:span><text:span text:style-name="T58">ve</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">re</text:span><text:span text:style-name="T43">t</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr130" draw:text-style-name="P103" draw:layer="layout" svg:width="12.461cm" svg:height="1.407cm" svg:x="0.636cm" svg:y="13.971cm">
@@ -41559,10 +41562,10 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
       <text:p text:style-name="P109"><text:span text:style-name="T42">ForLoop::</text:span></text:p>
       <text:p text:style-name="P107"><text:span text:style-name="T59"><text:tab/></text:span><text:span text:style-name="T60">ld</text:span><text:span text:style-name="T61"> a, 10 <text:s text:c="7"/></text:span><text:span text:style-name="T62">; iterate 10 times</text:span></text:p>
       <text:p text:style-name="P107"><text:span text:style-name="T63">.loop</text:span></text:p>
-      <text:p text:style-name="P109"><text:span text:style-name="T59"><text:tab/></text:span><text:span text:style-name="T60">cp</text:span><text:span text:style-name="T59"> 0 <text:s text:c="11"/></text:span><text:span text:style-name="T62">; if </text:span><text:span text:style-name="T56">a &gt; 0</text:span></text:p>
-      <text:p text:style-name="P109"><text:span text:style-name="T56"><text:tab/></text:span><text:span text:style-name="T56">; do something</text:span></text:p>
-      <text:p text:style-name="P109"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">ret</text:span><text:span text:style-name="T42"> nc, </text:span><text:span text:style-name="T44">.loop</text:span><text:span text:style-name="T57"> <text:s text:c="2"/></text:span><text:span text:style-name="T58">; repeat</text:span></text:p>
-      <text:p text:style-name="P109"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">ret</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T59"><text:tab/></text:span><text:span text:style-name="T60">and</text:span><text:span text:style-name="T59"> a <text:s text:c="11"/></text:span><text:span text:style-name="T62">; if </text:span><text:span text:style-name="T56">a &gt; 0</text:span></text:p>
+      <text:p text:style-name="P109"><text:span text:style-name="T42"><text:tab/></text:span><text:span text:style-name="T43">ret</text:span><text:span text:style-name="T42"> z</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T56"><text:tab/></text:span><text:span text:style-name="T56">; do something</text:span></text:p>
+      <text:p text:style-name="P107"><text:span text:style-name="T59"><text:tab/></text:span><text:span text:style-name="T60">jr </text:span><text:span text:style-name="T64">.loop</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr130" draw:text-style-name="P103" draw:layer="layout" svg:width="12.461cm" svg:height="1.407cm" svg:x="0.636cm" svg:y="13.971cm">
@@ -41603,23 +41606,23 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
      <draw:text-box>
       <text:p text:style-name="P118"><text:span text:style-name="T31">CaseStatement::</text:span></text:p>
       <text:p text:style-name="P118"><text:span text:style-name="T31"><text:tab/></text:span><text:span text:style-name="T30">ld</text:span><text:span text:style-name="T31"> a, [wVariable]</text:span></text:p>
-      <text:p text:style-name="P118"><text:span text:style-name="T31"><text:tab/></text:span><text:span text:style-name="T30">cp</text:span><text:span text:style-name="T31"> 0 <text:s text:c="18"/></text:span><text:span text:style-name="T64">; in case [wVariable] == 0</text:span></text:p>
-      <text:p text:style-name="P118"><text:span text:style-name="T31"><text:tab/></text:span><text:span text:style-name="T30">jr</text:span><text:span text:style-name="T31"> nz, </text:span><text:span text:style-name="T65">.notZero</text:span><text:span text:style-name="T66"> </text:span></text:p>
-      <text:p text:style-name="P119"><text:span text:style-name="T67"><text:tab/></text:span><text:span text:style-name="T33">call </text:span><text:span text:style-name="T68">VariableIsZero</text:span><text:span text:style-name="T34"> <text:s text:c="3"/></text:span><text:span text:style-name="T67">; call subroutine VariableIsZero</text:span></text:p>
-      <text:p text:style-name="P119"><text:span text:style-name="T67"><text:tab/></text:span><text:span text:style-name="T33">ret</text:span></text:p>
-      <text:p text:style-name="P118"><text:span text:style-name="T69">.notZero</text:span></text:p>
-      <text:p text:style-name="P119"><text:span text:style-name="T32"><text:tab/></text:span><text:span text:style-name="T33">cp</text:span><text:span text:style-name="T34"> 1 <text:s text:c="18"/></text:span><text:span text:style-name="T64">; in case [wVariable] == 1</text:span></text:p>
-      <text:p text:style-name="P119"><text:span text:style-name="T70"><text:tab/></text:span><text:span text:style-name="T71">jr</text:span><text:span text:style-name="T72"> nz, </text:span><text:span text:style-name="T68">.notOne</text:span></text:p>
-      <text:p text:style-name="P119"><text:span text:style-name="T68"><text:tab/></text:span><text:span text:style-name="T33">call </text:span><text:span text:style-name="T68">VariableIsOne</text:span><text:span text:style-name="T34"> <text:s text:c="4"/></text:span><text:span text:style-name="T67">; call subroutine VariableIsOne</text:span></text:p>
-      <text:p text:style-name="P119"><text:span text:style-name="T67"><text:tab/></text:span><text:span text:style-name="T33">ret</text:span></text:p>
-      <text:p text:style-name="P119"><text:span text:style-name="T73">.notOne</text:span></text:p>
-      <text:p text:style-name="P119"><text:span text:style-name="T74"><text:tab/></text:span><text:span text:style-name="T33">cp</text:span><text:span text:style-name="T34"> 2 <text:s text:c="18"/></text:span><text:span text:style-name="T75">; in case [wVariable] == 2</text:span></text:p>
-      <text:p text:style-name="P119"><text:span text:style-name="T74"><text:tab/></text:span><text:span text:style-name="T33">jr</text:span><text:span text:style-name="T34"> nz, </text:span><text:span text:style-name="T68">.done</text:span><text:span text:style-name="T34"> <text:s text:c="7"/></text:span></text:p>
-      <text:p text:style-name="P119"><text:span text:style-name="T34"><text:tab/></text:span><text:span text:style-name="T33">call </text:span><text:span text:style-name="T68">VariableIsTwo</text:span><text:span text:style-name="T34"> <text:s text:c="4"/></text:span><text:span text:style-name="T67">; call subroutine VariableIsTwo</text:span></text:p>
-      <text:p text:style-name="P119"><text:span text:style-name="T73">.done</text:span></text:p>
+      <text:p text:style-name="P118"><text:span text:style-name="T31"><text:tab/></text:span><text:span text:style-name="T30">cp</text:span><text:span text:style-name="T31"> 0 <text:s text:c="18"/></text:span><text:span text:style-name="T65">; in case [wVariable] == 0</text:span></text:p>
+      <text:p text:style-name="P118"><text:span text:style-name="T31"><text:tab/></text:span><text:span text:style-name="T30">jr</text:span><text:span text:style-name="T31"> nz, </text:span><text:span text:style-name="T66">.notZero</text:span><text:span text:style-name="T67"> </text:span></text:p>
+      <text:p text:style-name="P119"><text:span text:style-name="T68"><text:tab/></text:span><text:span text:style-name="T33">call </text:span><text:span text:style-name="T69">VariableIsZero</text:span><text:span text:style-name="T34"> <text:s text:c="3"/></text:span><text:span text:style-name="T68">; call subroutine VariableIsZero</text:span></text:p>
+      <text:p text:style-name="P119"><text:span text:style-name="T68"><text:tab/></text:span><text:span text:style-name="T33">ret</text:span></text:p>
+      <text:p text:style-name="P118"><text:span text:style-name="T70">.notZero</text:span></text:p>
+      <text:p text:style-name="P119"><text:span text:style-name="T32"><text:tab/></text:span><text:span text:style-name="T33">cp</text:span><text:span text:style-name="T34"> 1 <text:s text:c="18"/></text:span><text:span text:style-name="T65">; in case [wVariable] == 1</text:span></text:p>
+      <text:p text:style-name="P119"><text:span text:style-name="T71"><text:tab/></text:span><text:span text:style-name="T72">jr</text:span><text:span text:style-name="T73"> nz, </text:span><text:span text:style-name="T69">.notOne</text:span></text:p>
+      <text:p text:style-name="P119"><text:span text:style-name="T69"><text:tab/></text:span><text:span text:style-name="T33">call </text:span><text:span text:style-name="T69">VariableIsOne</text:span><text:span text:style-name="T34"> <text:s text:c="4"/></text:span><text:span text:style-name="T68">; call subroutine VariableIsOne</text:span></text:p>
+      <text:p text:style-name="P119"><text:span text:style-name="T68"><text:tab/></text:span><text:span text:style-name="T33">ret</text:span></text:p>
+      <text:p text:style-name="P119"><text:span text:style-name="T74">.notOne</text:span></text:p>
+      <text:p text:style-name="P119"><text:span text:style-name="T75"><text:tab/></text:span><text:span text:style-name="T33">cp</text:span><text:span text:style-name="T34"> 2 <text:s text:c="18"/></text:span><text:span text:style-name="T76">; in case [wVariable] == 2</text:span></text:p>
+      <text:p text:style-name="P119"><text:span text:style-name="T75"><text:tab/></text:span><text:span text:style-name="T33">jr</text:span><text:span text:style-name="T34"> nz, </text:span><text:span text:style-name="T69">.done</text:span><text:span text:style-name="T34"> <text:s text:c="7"/></text:span></text:p>
+      <text:p text:style-name="P119"><text:span text:style-name="T34"><text:tab/></text:span><text:span text:style-name="T33">call </text:span><text:span text:style-name="T69">VariableIsTwo</text:span><text:span text:style-name="T34"> <text:s text:c="4"/></text:span><text:span text:style-name="T68">; call subroutine VariableIsTwo</text:span></text:p>
+      <text:p text:style-name="P119"><text:span text:style-name="T74">.done</text:span></text:p>
       <text:p text:style-name="P118"><text:span text:style-name="T31"><text:tab/></text:span><text:span text:style-name="T30">ret</text:span></text:p>
       <text:p text:style-name="P119"><text:span text:style-name="T30"/></text:p>
-      <text:p text:style-name="P119"><text:span text:style-name="T67">; ...</text:span></text:p>
+      <text:p text:style-name="P119"><text:span text:style-name="T68">; ...</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr130" draw:text-style-name="P103" draw:layer="layout" svg:width="12.461cm" svg:height="1.407cm" svg:x="0.636cm" svg:y="13.971cm">
@@ -41643,7 +41646,7 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
     </draw:frame>
     <draw:frame presentation:style-name="pr26" draw:text-style-name="P121" draw:layer="layout" svg:width="25.2cm" svg:height="3.075cm" svg:x="-2.975cm" svg:y="6.673cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T76">(+ evtl. Troubleshooting)</text:span><text:span text:style-name="T76"><text:line-break/></text:span><text:span text:style-name="T76">15:45–16:00 </text:span></text:p>
+      <text:p><text:span text:style-name="T77">(+ evtl. Troubleshooting)</text:span><text:span text:style-name="T77"><text:line-break/></text:span><text:span text:style-name="T77">15:45–16:00 </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr132" draw:text-style-name="P106" draw:layer="layout" svg:width="11.505cm" svg:height="11.505cm" svg:x="16.183cm" svg:y="3.307cm">
@@ -43520,7 +43523,7 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
     </draw:frame>
     <draw:frame presentation:style-name="pr26" draw:text-style-name="P121" draw:layer="layout" svg:width="25.2cm" svg:height="3.075cm" svg:x="-2.975cm" svg:y="6.673cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T76">(+ evtl. Troubleshooting)</text:span><text:span text:style-name="T76"><text:line-break/></text:span><text:span text:style-name="T76">17:30–17:40 </text:span></text:p>
+      <text:p><text:span text:style-name="T77">(+ evtl. Troubleshooting)</text:span><text:span text:style-name="T77"><text:line-break/></text:span><text:span text:style-name="T77">17:30–17:40 </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr132" draw:text-style-name="P106" draw:layer="layout" svg:width="11.505cm" svg:height="11.505cm" svg:x="16.183cm" svg:y="3.307cm">
@@ -45796,12 +45799,12 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr141" draw:text-style-name="P122" draw:layer="layout" svg:width="6.6cm" svg:height="1.115cm" svg:x="2.286cm" svg:y="6.315cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T77">Lorem Ipsum Dolor</text:span></text:p>
+      <text:p><text:span text:style-name="T78">Lorem Ipsum Dolor</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr142" draw:text-style-name="P123" draw:layer="layout" svg:width="16.256cm" svg:height="4.256cm" svg:x="3.048cm" svg:y="8.015cm">
      <draw:text-box>
-      <text:p text:style-name="P100"><text:span text:style-name="T78">Id volutpat lacus laoreet non curabitur gravida arcu. Felis bibendum ut tristique et egestas quis ipsum suspendisse. Quam viverra orci sagittis eu. Risus commodo viverra maecenas accumsan lacus. Sit amet est placerat in egestas. Semper auctor neque vitae tempus quam pellentesque</text:span></text:p>
+      <text:p text:style-name="P100"><text:span text:style-name="T79">Id volutpat lacus laoreet non curabitur gravida arcu. Felis bibendum ut tristique et egestas quis ipsum suspendisse. Quam viverra orci sagittis eu. Risus commodo viverra maecenas accumsan lacus. Sit amet est placerat in egestas. Semper auctor neque vitae tempus quam pellentesque</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr143" draw:text-style-name="P124" draw:layer="layout" svg:width="0.254cm" svg:height="4.572cm" svg:x="2.54cm" svg:y="7.875cm">
@@ -45822,62 +45825,62 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr144" draw:text-style-name="P126" draw:layer="layout" svg:width="9.398cm" svg:height="2.079cm" svg:x="0.254cm" svg:y="3.219cm">
      <draw:text-box>
-      <text:p text:style-name="P125"><text:span text:style-name="T79">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p text:style-name="P125"><text:span text:style-name="T80">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr141" draw:text-style-name="P128" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="4.064cm" svg:y="2.032cm">
      <draw:text-box>
-      <text:p text:style-name="P127"><text:span text:style-name="T80">Lorem</text:span></text:p>
+      <text:p text:style-name="P127"><text:span text:style-name="T81">Lorem</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr145" draw:text-style-name="P126" draw:layer="layout" svg:width="9.398cm" svg:height="2.947cm" svg:x="0.305cm" svg:y="7.332cm">
      <draw:text-box>
-      <text:p text:style-name="P125"><text:span text:style-name="T79">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p text:style-name="P125"><text:span text:style-name="T80">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr141" draw:text-style-name="P128" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="4.115cm" svg:y="6.145cm">
      <draw:text-box>
-      <text:p text:style-name="P127"><text:span text:style-name="T80">Ipsum</text:span></text:p>
+      <text:p text:style-name="P127"><text:span text:style-name="T81">Ipsum</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr146" draw:text-style-name="P126" draw:layer="layout" svg:width="9.398cm" svg:height="2.079cm" svg:x="0.254cm" svg:y="11.383cm">
      <draw:text-box>
-      <text:p text:style-name="P125"><text:span text:style-name="T79">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p text:style-name="P125"><text:span text:style-name="T80">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr141" draw:text-style-name="P128" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="4.064cm" svg:y="10.196cm">
      <draw:text-box>
-      <text:p text:style-name="P127"><text:span text:style-name="T80">Dolor</text:span></text:p>
+      <text:p text:style-name="P127"><text:span text:style-name="T81">Dolor</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr147" draw:text-style-name="P130" draw:layer="layout" svg:width="9.398cm" svg:height="2.079cm" svg:x="18.534cm" svg:y="12.353cm">
      <draw:text-box>
-      <text:p text:style-name="P129"><text:span text:style-name="T79">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p text:style-name="P129"><text:span text:style-name="T80">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr141" draw:text-style-name="P131" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="18.534cm" svg:y="11.166cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T81">Consectetur</text:span></text:p>
+      <text:p><text:span text:style-name="T82">Consectetur</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr148" draw:text-style-name="P130" draw:layer="layout" svg:width="9.398cm" svg:height="2.079cm" svg:x="18.534cm" svg:y="8.307cm">
      <draw:text-box>
-      <text:p text:style-name="P129"><text:span text:style-name="T79">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p text:style-name="P129"><text:span text:style-name="T80">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr141" draw:text-style-name="P131" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="18.534cm" svg:y="7.12cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T81">Amet</text:span></text:p>
+      <text:p><text:span text:style-name="T82">Amet</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr149" draw:text-style-name="P130" draw:layer="layout" svg:width="9.398cm" svg:height="2.079cm" svg:x="18.534cm" svg:y="3.981cm">
      <draw:text-box>
-      <text:p text:style-name="P129"><text:span text:style-name="T79">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p text:style-name="P129"><text:span text:style-name="T80">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr141" draw:text-style-name="P131" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="18.534cm" svg:y="2.794cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T81">Sit</text:span></text:p>
+      <text:p><text:span text:style-name="T82">Sit</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -45911,17 +45914,17 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
     </draw:frame>
     <draw:frame draw:style-name="gr151" draw:text-style-name="P130" draw:layer="layout" svg:width="9.398cm" svg:height="2.079cm" svg:x="7.366cm" svg:y="12.41cm">
      <draw:text-box>
-      <text:p text:style-name="P129"><text:span text:style-name="T79">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p text:style-name="P129"><text:span text:style-name="T80">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr141" draw:text-style-name="P131" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="7.366cm" svg:y="11.223cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T81">03 Dolor</text:span></text:p>
+      <text:p><text:span text:style-name="T82">03 Dolor</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr152" draw:text-style-name="P126" draw:layer="layout" svg:width="9.66cm" svg:height="2.739cm" svg:x="0.5cm" svg:y="3.473cm">
      <draw:text-box>
-      <text:p text:style-name="P125"><text:span text:style-name="T79">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p text:style-name="P125"><text:span text:style-name="T80">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr153" draw:text-style-name="P40" draw:layer="layout" svg:width="3.918cm" svg:height="3.81cm" svg:x="6.858cm" svg:y="2.286cm">
@@ -45930,7 +45933,7 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
     </draw:custom-shape>
     <draw:frame draw:style-name="gr141" draw:text-style-name="P132" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="4.572cm" svg:y="2.286cm">
      <draw:text-box>
-      <text:p text:style-name="P127"><text:span text:style-name="T81">01 Lorem</text:span></text:p>
+      <text:p text:style-name="P127"><text:span text:style-name="T82">01 Lorem</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr150" draw:text-style-name="P32" draw:layer="layout" svg:width="2.62cm" svg:height="2.904cm" svg:x="13.484cm" svg:y="4.928cm">
@@ -45990,12 +45993,12 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
     </draw:frame>
     <draw:frame draw:style-name="gr154" draw:text-style-name="P126" draw:layer="layout" svg:width="7.62cm" svg:height="2.555cm" svg:x="17.526cm" svg:y="5.157cm">
      <draw:text-box>
-      <text:p text:style-name="P125"><text:span text:style-name="T79">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p text:style-name="P125"><text:span text:style-name="T80">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr141" draw:text-style-name="P132" draw:layer="layout" svg:width="5.588cm" svg:height="1.115cm" svg:x="19.558cm" svg:y="3.97cm">
      <draw:text-box>
-      <text:p text:style-name="P127"><text:span text:style-name="T81">02 Ipsum</text:span></text:p>
+      <text:p text:style-name="P127"><text:span text:style-name="T82">02 Ipsum</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -46009,12 +46012,12 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr155" draw:text-style-name="P133" draw:layer="layout" svg:width="10.668cm" svg:height="3.707cm" svg:x="11.938cm" svg:y="6.588cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T82">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
+      <text:p><text:span text:style-name="T83">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr156" draw:text-style-name="P134" draw:layer="layout" svg:width="4.318cm" svg:height="1.017cm" svg:x="11.992cm" svg:y="10.412cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T83">- Loremus</text:span></text:p>
+      <text:p><text:span text:style-name="T84">- Loremus</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -46129,17 +46132,17 @@ Photo by Dave Hoefler https://unsplash.com/fr/@iamthedave on Unsplash https://un
     </draw:g>
     <draw:frame draw:style-name="gr141" draw:text-style-name="P138" draw:layer="layout" svg:width="3.556cm" svg:height="1.115cm" svg:x="2.794cm" svg:y="10.379cm">
      <draw:text-box>
-      <text:p text:style-name="P95"><text:span text:style-name="T80">Lorem</text:span></text:p>
+      <text:p text:style-name="P95"><text:span text:style-name="T81">Lorem</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr141" draw:text-style-name="P138" draw:layer="layout" svg:width="3.556cm" svg:height="1.115cm" svg:x="12.192cm" svg:y="10.468cm">
      <draw:text-box>
-      <text:p text:style-name="P95"><text:span text:style-name="T80">Ipsum</text:span></text:p>
+      <text:p text:style-name="P95"><text:span text:style-name="T81">Ipsum</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr141" draw:text-style-name="P138" draw:layer="layout" svg:width="3.556cm" svg:height="1.115cm" svg:x="21.282cm" svg:y="10.414cm">
      <draw:text-box>
-      <text:p text:style-name="P95"><text:span text:style-name="T80">Dolor</text:span></text:p>
+      <text:p text:style-name="P95"><text:span text:style-name="T81">Dolor</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr161" draw:text-style-name="P139" draw:layer="layout" svg:width="7.984cm" svg:height="4.595cm" svg:x="1.016cm" svg:y="11.357cm">
