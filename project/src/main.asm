@@ -55,7 +55,7 @@ TitleTiles::
 INCBIN "./build/title.2bpp"
 TitleTilesEnd::
 
-SECTION "Tilemaps", rom0
+SECTION "Tilemaps", ROM0
 TitleTilemap::
 INCBIN "./build/title.tilemap"
 TitleTilemapEnd::
