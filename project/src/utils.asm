@@ -1,12 +1,6 @@
 INCLUDE "./include/hardware.inc"
 
 
-SECTION "Variables", WRAM0
-
-wCurKeys:: db
-wNewKeys:: db
-
-
 SECTION "Utility Functions", ROM0
 
 ; Copy bytes from one area to another.
@@ -24,12 +18,13 @@ Memcopy::
 	jp nz, Memcopy
 	ret
 
+
 ; Reads the button inputs.
 ; Updates the variables
 ;   wCurKeys with the currently pressed keys
 ;   wNewKeys with the keys that are now pressed that were not pressed before
 ; Taken from https://gbdev.io/gb-asm-tutorial/part2/input.html
-; @destroys a, b
+; @destroys a b
 UpdateKeys::
 	; Poll half the controller
 	ld a, JOYP_GET_BUTTONS
@@ -65,6 +60,7 @@ UpdateKeys::
 .knownret
 	ret
 
+
 ; Waits until the next VBlank period.
 ; @destroys a
 WaitVBlank::
@@ -92,3 +88,43 @@ WaitMultipleVBlank::
 	ld a, b
 	dec a
 	jr .loop
+
+; Fades from the currently used palette (implicitly assumed to
+; be the standard palette) gradually to a black screen.
+; @destroys a b
+FadeToBlack::	
+	ld a, %11111001
+	ld [rBGP], a
+	ld a, 12
+	call WaitMultipleVBlank
+	
+	ld a, %11111110
+	ld [rBGP], a
+	ld a, 12
+	call WaitMultipleVBlank
+	
+	ld a, %11111111
+	ld [rBGP], a
+	ld a, 12
+	call WaitMultipleVBlank
+	ret
+
+; Fades from the currently used palette (implicitly assumed to
+; be all black palette) gradually to the standard palette.
+; @destroys a b
+FadeFromBlack::	
+	ld a, %11111110
+	ld [rBGP], a
+	ld a, 12
+	call WaitMultipleVBlank
+	
+	ld a, %11111001
+	ld [rBGP], a
+	ld a, 12
+	call WaitMultipleVBlank
+	
+	ld a, %11100100
+	ld [rBGP], a
+	ld a, 12
+	call WaitMultipleVBlank
+	ret

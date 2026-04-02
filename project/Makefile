@@ -20,7 +20,7 @@ FIX_FLAGS           := -v -p 0xFF
 PROJECT_EXT         := gbc
 SRC_DIR             := src
 INC_DIR             := include
-PNG_DIR             := res/png
+RES_DIR             := res
 BUILD_DIR           := build
 RELEASE_DIR         := release
 FINAL_TARGET        := $(RELEASE_DIR)/$(PROJECT_NAME)
@@ -35,13 +35,13 @@ SOURCE_FILES        := $(wildcard $(SRC_DIR)/*.asm)
 # list all .inc files in include directory INC_DIR, results in: -iinclude/hardware.inc -iinclude/temp.inc
 INCLUDE_FILES       := $(addprefix -i, $(wildcard $(INC_DIR)/*.inc))
 
-# list all tile data, results in: res/png/title.png
-TILE_FILES          := $(wildcard $(PNG_DIR)/*.png)
+# list all tile data, results in: res/title.png
+TILE_FILES          := $(wildcard $(RES_DIR)/*.png)
 
-# list all tile data as .2bpp, results in: res/tiles/title.2bpp
+# list all tile data as .2bpp, results in: res/title.2bpp
 TILE_INPUT       := $(TILE_FILES:%.png=%.2bpp)
 
-# list all tile data as .2bpp, results in: res/tiles/title.2bpp
+# list all tile data as .2bpp, results in: res/title.2bpp
 TILE_OUTPUT       := $(addprefix $(BUILD_DIR)/, $(notdir $(TILE_FILES:%.png=/%.2bpp)))
  
 # list all object files corresonding to source asm files, results in: src/main.o src/player.o
