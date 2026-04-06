@@ -35,6 +35,19 @@ InitStateTitle::
 	ld a, %11100100  ; default palette black:dark:light:white
 	ld [rBGP], a
 
+ChangePaletteLoop:
+    ld a, 30  ; wait for approx. half a second
+    call WaitMultipleVBlank
+    ld a, %11010100  ; new palette black:light:light:white, what has been dark now is light, too
+	ld [rBGP], a
+
+    ld a, 30  ; wait for approx. half a second
+    call WaitMultipleVBlank
+    ld a, %11100100  ; revert back to default palette black:dark:light:white
+	ld [rBGP], a
+
+    jr ChangePaletteLoop
+
     ret
 
 

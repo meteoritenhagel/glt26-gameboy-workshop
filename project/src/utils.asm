@@ -82,3 +82,17 @@ WaitVBlank::
 	cp 144       ; Check if the vertical line < 144
 	jp c, .loop  ; if no, wait for longer
 	ret          ; otherwise, we are in VBlank and return
+
+
+; Waits a number of VBlank periods (1 VBlank is approx. 16.7 ms).
+; @param a: Number of VBlank periods to wait
+; @destroys b
+WaitMultipleVBlank::
+	and a
+.loop
+	ret z  ; if a is zero, exit
+	ld b, a
+	call WaitVBlank
+	ld a, b
+	dec a
+	jr .loop
