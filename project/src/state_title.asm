@@ -7,6 +7,14 @@ SECTION "State Title Functions", ROM0
 
 ; InitStateTitle displays the title screen
 InitStateTitle::
+    ; Initialize music playback
+    xor a
+	ld [wUpdateSound], a  ; disable sound updates on VBlank
+    ld hl, music_title  ; the label is visible in music_title.asm
+    call hUGE_init  ; load title song into hUGE
+    ld a, 1
+    ld [wUpdateSound], a  ; enable sound updates on VBlank
+
     ; wait until VBlank to turn the LCD off, otherwise, the display
 	; might take damages
 	call WaitVBlank

@@ -8,6 +8,9 @@ SECTION "Variables", WRAM0
 ; (which is a 16-bit pointer to an
 ; 8-bit value in memory)
 
+; General variables
+wUpdateSound:: db   ; If nonzero, update the sound during the VBlank interrupt.
+
 ; Keyboard input variables (used by UpdateKeys in utils.asm)
 wCurKeys:: db       ; currently pressed keys
 wNewKeys:: db       ; newly pressed keys
