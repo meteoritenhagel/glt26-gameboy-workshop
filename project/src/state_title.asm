@@ -6,18 +6,17 @@ SECTION "State Title Functions", ROM0
 
 
 InitStateTitle::
-
-    ; wait until VBlank to turn the LCD off, otherwise, the display
-	; might take damages
-	call WaitVBlank
-
-    ; Initialize music playbackld a, 1
+    ; Initialize music playback
     xor a
 	ld [wUpdateSound], a  ; disable sound updates on VBlank
     ld hl, music_title
     call hUGE_init  ; load title song into hUGE
     ld a, 1
     ld [wUpdateSound], a  ; enable sound updates on VBlank
+
+    ; wait until VBlank to turn the LCD off, otherwise, the display
+	; might take damages
+	call WaitVBlank
 
 	; Turn the LCD off
     xor a
@@ -90,6 +89,7 @@ SECTION "Title Tiles", ROM0
 TitleTiles:
     INCBIN "./build/title.2bpp"
 TitleTilesEnd:
+
 
 SECTION "Title Tilemaps", ROM0
 TitleTilemap:

@@ -29,13 +29,24 @@ SECTION "Header", ROM0[$100]
 SECTION "Entry", ROM0
 
 EntryPoint:
-	; We start the game with the title screen!
-	ld a, STATE_TITLE
-	ld [wNextState], a
-
 	xor a
 	ld [wUpdateSound], a  ; Do not update sound for now, only when a music piece is loaded
-	ld [wFrameCounter], a  ; Initialize frame counter
+
+	; wait until VBlank to turn the LCD off before manipulating VRAM,
+	; otherwise, the display might take damages
+	call WaitVBlank
+    xor a  ; faster version of ld a, 0
+    ld [rLCDC], a  ; switch off LCD
+
+	; Copy Font Tiles into tile memory $8800
+	ld de, FontTiles
+    ld hl, $8800
+    ld bc, FontTilesEnd - FontTiles
+	call Memcopy
+
+	; Turn the LCD on
+    ld a, LCDC_ON
+    ld [rLCDC], a
 
 	; Initialize audio
 	ld a, AUDENA_ON  ; abbreviation of %10000000
@@ -49,6 +60,11 @@ EntryPoint:
 	ld a, IE_VBLANK
 	ld [rIE], a  ; enable VBlank
 	ei  ; activate interrupts in general
+
+	; We start the game with the title screen!
+	ld a, STATE_TITLE
+	ld [wNextState], a
+	; program counter goes to next line automatically, i.e., to StateChange
 
 StateChange:  ; change to the requested game state
 	; case wNextState
@@ -87,3 +103,8 @@ VBlankHandler:
 	; we return from the interrupt handler and enable interrupts again!
 	reti
 
+
+SECTION "Font Tiles", ROM0
+FontTiles:
+    INCBIN "./build/font.2bpp"
+FontTilesEnd:

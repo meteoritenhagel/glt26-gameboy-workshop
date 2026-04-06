@@ -1,5 +1,9 @@
 INCLUDE "./include/hardware.inc"
 
+SECTION "Utility Functions Variables", WRAM0
+
+wRandState:: ds 4   ; random state
+
 
 SECTION "Utility Functions", ROM0
 
@@ -128,3 +132,49 @@ FadeFromBlack::
 	ld a, 12
 	call WaitMultipleVBlank
 	ret
+
+
+; Draws text on a position on screen.
+; @param de: Pointer to the position on the screen.
+; @param hl: Pointer to text that is to be drawn.
+; @destroys a 
+DrawText::	
+	; Check for the end of string character 255
+	ld a, [hl]
+	cp 255
+	ret z  ; if end of string was found, return
+
+	; Write the current character (in hl) to the address
+	; on the tilemap (in de)
+	ld a, [hl]
+	; note that our text is loaded into the tiles at $8800,
+	; and these tiles start being indexed at $80, so we have
+	; to add this value
+	add $80
+	ld [de], a
+
+	; move to the next character and next background tile
+	inc hl
+	inc de
+
+	jp DrawText
+
+;; Adapted from: https://github.com/pinobatch/libbet/blob/master/src/rand.z80#L34-L54
+; Generates a pseudorandom 16-bit integer in BC
+; using the LCG formula from cc65 rand():
+; x[i + 1] = x[i] * 0x01010101 + 0xB3B3B3B3
+; @return a: state bits 31-24 (which have the best entropy)
+; @destroys hl
+GetRandomByte::
+  ; Add 0xB3 then multiply by 0x01010101
+  ld hl, wRandState+0
+  ld a, [hl]
+  add a, $B3
+  ld [hl+], a
+  adc a, [hl]
+  ld [hl+], a
+  adc a, [hl]
+  ld [hl+], a
+  adc a, [hl]
+  ld [hl], a
+  ret
