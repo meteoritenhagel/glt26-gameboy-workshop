@@ -17,10 +17,11 @@ SECTION "Entry", ROM0
 EntryPoint:
 	; Here comes our code!
 
+	call InitStateTitle
+.loop
 	; Always end your code in an endless loop.
 	; Otherwise, the program counter will
 	; treat anything it finds as executable code!
 	; ("Runaway Code", see also Rule #2 of NASA
 	; 10 Rules for Developing Safety Critical Code)
-
-	jr EntryPoint
+	jr .loop

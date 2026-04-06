@@ -2,6 +2,8 @@
 *.o
 # contains 2 bit per pixel image data
 *.2bpp
+# contains tilemap data
+*.tilemap
 # Gameboy Color ROM
 *.gbc
 # Gameboy ROM

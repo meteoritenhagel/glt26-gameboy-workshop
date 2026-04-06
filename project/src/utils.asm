@@ -58,3 +58,27 @@ UpdateKeys::
 	or a, $F0 ; A7-4 = 1; A3-0 = unpressed keys
 .knownret
 	ret
+
+
+; Waits until the next VBlank period.
+; This function is important, since only
+; in the VBlank period we are allowed to
+; switch off the LCD screen (needed for
+; accessing VRAM). Otherwise, hardware
+; damage may occur!
+; @destroys a
+WaitVBlank::
+	; Wait until it's not VBlank,
+	; i.e., vertical line [rLY] >= 144
+	ld a, [rLY]
+	cp 144
+	; check if the vertical line < 144,
+	; i.e., we are in VBlank. If so, jump
+	; to the start and wait a little longer.
+	jp nc, WaitVBlank
+.loop
+	; Wait until next VBlank and return
+	ld a, [rLY]  ; Copy the vertical line to a
+	cp 144       ; Check if the vertical line < 144
+	jp c, .loop  ; if no, wait for longer
+	ret          ; otherwise, we are in VBlank and return
