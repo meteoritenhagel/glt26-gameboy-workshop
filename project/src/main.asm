@@ -49,14 +49,22 @@ EntryPoint:
 	ld [rIE], a  ; enable VBlank
 	ei  ; activate interrupts in general
 
-	call InitStateTitle
-.loop
-	; Always end your code in an endless loop.
-	; Otherwise, the program counter will
-	; treat anything it finds as executable code!
-	; ("Runaway Code", see also Rule #2 of NASA
-	; 10 Rules for Developing Safety Critical Code)
-	jr .loop
+	; We start the game with the title screen!
+	ld a, STATE_TITLE
+	ld [wNextState], a
+StateChange:  ; change to the requested game state
+	; case wNextState
+	ld a, [wNextState]
+	cp STATE_TITLE
+	jr nz, .notTitle
+	call InitStateTitle  ; STATE_TITLE
+	jr StateChange
+.notTitle
+	cp STATE_GAME
+	jr nz, .notGame
+	call InitStateGame  ; STATE_GAME
+.notGame
+	jr StateChange
 
 
 ; The VBlankHandler 

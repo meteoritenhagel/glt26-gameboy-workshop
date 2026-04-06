@@ -10,6 +10,7 @@ SECTION "Variables", WRAM0
 
 ; General variables
 wUpdateSound:: db   ; If nonzero, update the sound during the VBlank interrupt.
+wNextState:: db     ; game state that should be toggled next 
 
 ; Keyboard input variables (used by UpdateKeys in utils.asm)
 wCurKeys:: db       ; currently pressed keys

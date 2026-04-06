@@ -59,6 +59,8 @@ ChangePaletteLoop:
     jr ChangePaletteLoop
 
 .exitState
+    ld a, STATE_GAME
+    ld [wNextState], a  ; Set the next game state to GAME
     ret
 
 
