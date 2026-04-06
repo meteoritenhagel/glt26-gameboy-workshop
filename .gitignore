@@ -1,0 +1,10 @@
+# object files created by rgbds
+*.o
+# contains 2 bit per pixel image data
+*.2bpp
+# Gameboy Color ROM
+*.gbc
+# Gameboy ROM
+*.gb
+# Symbol file containing debug information such as label addresses
+*.sym
