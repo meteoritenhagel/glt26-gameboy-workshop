@@ -36,19 +36,43 @@ InitStateTitle::
 	ld [rBGP], a
 
 ChangePaletteLoop:
-    ld a, 30  ; wait for approx. half a second
-    call WaitMultipleVBlank
+    ld e, 30  ; wait for approx. half a second
+    call WaitMultipleVBlankPressStart
+    jr nz, .exitState
     ld a, %11010100  ; new palette black:light:light:white, what has been dark now is light, too
 	ld [rBGP], a
 
-    ld a, 30  ; wait for approx. half a second
-    call WaitMultipleVBlank
+    ld e, 30  ; wait for approx. half a second
+    call WaitMultipleVBlankPressStart
+    jr nz, .exitState
     ld a, %11100100  ; revert back to default palette black:dark:light:white
 	ld [rBGP], a
 
     jr ChangePaletteLoop
 
+.exitState
     ret
+
+
+; Waits a number of VBlank periods (1 VBlank is approx. 16.7 ms)
+; and checks for start button press. If start was pressed, the loop is
+; exited with zero flag ZF = 1.
+; @param e: Number of VBlank periods to wait
+; @returns f ZF = 1 if start was pressed
+; @destroys a b
+WaitMultipleVBlankPressStart:
+    ld a, e
+    and e
+.waitForPlayerInputLoop
+	ret z  ; if we have waited enough, return
+	call WaitVBlank
+    ; our custom callback
+    call UpdateKeys
+    ld a, [wCurKeys]  ; get the currently pressed keys
+    and a, PAD_START
+    ret nz  ; if start is pressed, immediately exit
+	dec e
+	jr .waitForPlayerInputLoop
 
 
 SECTION "Title Tiles", ROM0
