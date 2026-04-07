@@ -4,6 +4,7 @@ INCLUDE "./include/hardware.inc"
 
 DEF TOP_TEXT_REGION_START EQU $9862
 DEF BOTTOM_TEXT_REGION_START EQU $9962
+DEF FINAL_TEXT_REGION_START EQU $9906
 DEF GIVEN_BEAT_REGION_START EQU $98CA
 DEF METRONOME_ARROW_REGION_START EQU $99A2
 DEF PLAYER_BEAT_REGION_START EQU $99CA
@@ -109,6 +110,9 @@ GameplayLoop:
     ; stop all sounds, otherwise, the weak or strong
     ; beat will loop eventually
     call StopSounds
+
+    ; Display success text
+    call SuccessText
 
     ; Return to title screen
     ld a, STATE_TITLE
@@ -252,9 +256,58 @@ WaitMultipleVBlankPlayerInput:
 	jr .waitForPlayerInputLoop
 
 
+; Displays a success message on screen.
+; @destroy a bc de hl
+SuccessText::
+    ; clear screen,
+    ; draw final text
+    call ClearScreen
+    ld a, 10
+    call WaitMultipleVBlank
+    ld de, FINAL_TEXT_REGION_START
+    ld hl, FinalText
+    call DrawText
+
+    ld a, 255  ; wait some time
+    call WaitMultipleVBlank
+
+    ; clear screen,
+    ; wait,
+    ; and go to title screen
+    call ClearScreen
+    ld a, 10  ; wait some time
+    call WaitMultipleVBlank
+    ret
+
+    
+; Clears screen
+; @destroy a bc hl
+ClearScreen:
+    call WaitVBlank
+    
+    ; Turn the LCD off
+	xor a
+	ld [rLCDC], a
+    ; Clear all parts of the screen, also those that are not visible
+	ld bc, 1024
+	ld hl, $9800
+.loop:
+	ld a, $80  ; corresponds to space in the loaded font
+	ld [hli], a
+	dec bc
+	ld a, b
+	or c
+	jp nz, .loop
+
+	; Turn the LCD on
+	ld a, LCDC_ON | LCDC_BG_ON
+	ld [rLCDC], a
+	ret
+
 SECTION "Game Text", ROM0
 TopText: db "COPY THE RHYTHM!", 255  ; 255 signifies end of line
 BottomText: db "YOU", 255
+FinalText: db "YOU WON!", 255
 
 
 SECTION "Game Tiles", ROM0
