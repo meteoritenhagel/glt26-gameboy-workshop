@@ -155,3 +155,18 @@ PlayWeakBeat::
     pop bc
     pop af
     ret
+
+    
+; Plays a strong beat.
+PlayStrongBeat::
+    push af
+    push bc
+    push de
+    push hl
+    ld hl, music_strongbeat
+    call hUGE_init
+    pop hl
+    pop de
+    pop bc
+    pop af
+    ret

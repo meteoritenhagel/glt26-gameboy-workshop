@@ -8,6 +8,8 @@ DEF METRONOME_ARROW_REGION_START EQU $99A2
 
 DEF TILE_WHITE EQU $01
 DEF TILE_ARROW EQU $08
+DEF TILE_EMPTY_BOX EQU $0E
+DEF TILE_FULL_BOX EQU $0D
 
 
 SECTION "State Game Functions", ROM0
@@ -59,6 +61,10 @@ GameplayLoop:
     ; First, execute the metronome.
     ld d, 20  ; d is the duration of frames between two pulses
     call PlayMetronome
+    
+    ; note that hl was incremented during PlayMetronome,
+    ; so we're at the correct position already!
+    call PlayerInput
 
     jr GameplayLoop
 
@@ -88,6 +94,60 @@ PlayMetronome:
     dec c
     jr nz, .loop
     ret
+
+
+; Get the player input, this is the second phase of each round.
+; @param d: duration between two pulses in frames (approx. 1/60 sec)
+; @param hl: address of the starting position on the screen
+; @destroys af bc e
+PlayerInput:
+    ld c, 8  ; fill eight boxes, c is our counter
+.loop
+    ld a, TILE_ARROW
+    ld [hl], a
+
+    call PlayWeakBeat
+
+    ld e, d  ; load the number of frames to wait into e
+    call WaitMultipleVBlankPlayerInput
+
+    ld a, TILE_WHITE  ; after waiting, replace the arrow by a white box
+    ld [hli], a       ; and go one position to the right
+
+    dec c
+    jp nz, .loop
+    ret  ; return if zero, so all eight boxes have been filled/emptied
+
+
+; Waits a number of VBlank periods (1 VBlank is approx. 16.7 ms)
+; and checks for user input. If input was found, the box one row
+; below the position hl is pointing to is changed to a full box.
+; @param e: Number of VBlank periods to wait
+; @destroys a b e
+WaitMultipleVBlankPlayerInput:
+    ld a, e
+    and e
+.waitForPlayerInputLoop
+	ret z  ; if we have waited enough, return
+	call WaitVBlank
+    ; our custom callback
+    call UpdateKeys
+    ld a, [wNewKeys]
+    and a
+    jr z, .noInputResume  ; if no input was found, go on
+    call PlayStrongBeat  ; if input was found, play the strong beat
+    ; then, go to the box one column below and change it from empty to full
+    ld a, l
+    add $20  ; to go one column down, add $20
+    ld l, a
+    ld a, TILE_FULL_BOX
+    ld [hl], a
+    ld a, l
+    sub $20
+    ld l, a
+.noInputResume
+	dec e
+	jr .waitForPlayerInputLoop
 
 
 SECTION "Game Text", ROM0
