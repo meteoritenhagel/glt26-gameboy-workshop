@@ -18,6 +18,7 @@ SECTION "State Game Variables", WRAM0
 
 wCurrentGivenBeat: db    ; The byte storing the beat pattern the player should repeat
 wCurrentPlayerBeat: db   ; The player input beat
+wBeatDuration: db        ; The duration between pulses in the current round
 
 
 SECTION "State Game Functions", ROM0
@@ -62,8 +63,19 @@ InitStateGame::
     ; Turn the LCD on
     ld a, LCDC_ON | LCDC_BG_ON
     ld [rLCDC], a
+
+    ; Initialize beat duration
+    ld a, START_BEAT_DURATION
+    ld [wBeatDuration], a
     
 GameplayLoop:
+    ; Check if current pulse duration is
+    ; above MINIMUM_DURATION, only then
+    ; we can continue
+    ld a, [wBeatDuration]
+    cp a, MINIMUM_DURATION
+    jr c, .done  ; if it is lower than MINIMUM_DURATION, we are done
+
     call InitGivenBeat
 
 .repeatRound
@@ -72,7 +84,8 @@ GameplayLoop:
     ld hl, METRONOME_ARROW_REGION_START  ; set the starting position on the screen
     
     ; First, execute the metronome.
-    ld d, 20  ; d is the duration of frames between two pulses
+    ld a, [wBeatDuration]
+    ld d, a  ; d is the duration of frames between two pulses
     call PlayMetronome
     
     ; note that hl was incremented during PlayMetronome,
@@ -86,7 +99,21 @@ GameplayLoop:
     cp a, b
     ; if they are not the same, repeat round with same given beat
     jr nz, .repeatRound
+    ; otherwise, increase difficulty by decreasing pulse duration
+    ld a, [wBeatDuration]
+    sub a, DECREASE_DURATION
+    ld [wBeatDuration], a
     jr GameplayLoop
+
+.done
+    ; stop all sounds, otherwise, the weak or strong
+    ; beat will loop eventually
+    call StopSounds
+
+    ; Return to title screen
+    ld a, STATE_TITLE
+    ld [wNextState], a
+    ret
 
 
 ; Initializes the given beat state of the current round, i.e.,
