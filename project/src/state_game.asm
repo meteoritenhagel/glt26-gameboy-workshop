@@ -4,6 +4,7 @@ INCLUDE "./include/hardware.inc"
 
 DEF TOP_TEXT_REGION_START EQU $9862
 DEF BOTTOM_TEXT_REGION_START EQU $9962
+DEF GIVEN_BEAT_REGION_START EQU $98CA
 DEF METRONOME_ARROW_REGION_START EQU $99A2
 DEF PLAYER_BEAT_REGION_START EQU $99CA
 
@@ -11,6 +12,11 @@ DEF TILE_WHITE EQU $01
 DEF TILE_ARROW EQU $08
 DEF TILE_EMPTY_BOX EQU $0E
 DEF TILE_FULL_BOX EQU $0D
+
+
+SECTION "State Game Variables", WRAM0
+
+wCurrentGivenBeat: db    ; The byte storing the beat pattern the player should repeat
 
 
 SECTION "State Game Functions", ROM0
@@ -56,6 +62,7 @@ InitStateGame::
     ld a, LCDC_ON | LCDC_BG_ON
     ld [rLCDC], a
     
+    call InitGivenBeat
 GameplayLoop:
     call ClearPlayerInput  ; clear player input each round
 
@@ -70,6 +77,34 @@ GameplayLoop:
     call PlayerInput
 
     jr GameplayLoop
+
+
+; Initializes the given beat state of the current round, i.e.,
+; the beat that should be repeated by the player later.
+; @destroys a b hl
+InitGivenBeat:
+    ; determine the random beat pattern of the current round
+    call GetRandomByte
+    ld [wCurrentGivenBeat], a
+
+    ld hl, GIVEN_BEAT_REGION_START
+
+    ld b, %00000001  ; our bitmask to test the value of each beat bit
+.loop
+    ld a, [wCurrentGivenBeat]
+    and a, b
+    jr z, .beatIsZero
+    ; current bit is one
+    ld a, TILE_FULL_BOX
+    jr .continue
+.beatIsZero  ; current bit is zero
+    ld a, TILE_EMPTY_BOX
+.continue
+    ld [hli], a
+
+    rlc b  ; test next bit
+    jp nc, .loop
+    ret  ; return if carry flag is set, i.e., all bits were tested
 
 
 ; The metronome helps the player find the pulse before

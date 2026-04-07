@@ -1,5 +1,10 @@
 INCLUDE "./include/hardware.inc"
 
+SECTION "Utility Functions Variables", WRAM0
+
+wRandState: ds 4   ; random state
+
+
 SECTION "Utility Functions", ROM0
 
 ; Copy bytes from one area to another.
@@ -170,3 +175,24 @@ PlayStrongBeat::
     pop bc
     pop af
     ret
+
+
+;; Adapted from: https://github.com/pinobatch/libbet/blob/master/src/rand.z80#L34-L54
+; Generates a pseudorandom 16-bit integer in BC
+; using the LCG formula from cc65 rand():
+; x[i + 1] = x[i] * 0x01010101 + 0xB3B3B3B3
+; @return a: state bits 31-24 (which have the best entropy)
+; @destroys hl
+GetRandomByte::
+  ; Add 0xB3 then multiply by 0x01010101
+  ld hl, wRandState+0
+  ld a, [hl]
+  add a, $B3
+  ld [hl+], a
+  adc a, [hl]
+  ld [hl+], a
+  adc a, [hl]
+  ld [hl+], a
+  adc a, [hl]
+  ld [hl], a
+  ret
