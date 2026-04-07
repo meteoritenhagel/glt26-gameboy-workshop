@@ -140,3 +140,18 @@ DrawText::
 	inc hl
 	inc de
 	jp DrawText
+
+
+; Plays a weak beat.
+PlayWeakBeat::
+    push af
+    push bc
+    push de
+    push hl
+    ld hl, music_weakbeat
+    call hUGE_init
+    pop hl
+    pop de
+    pop bc
+    pop af
+    ret

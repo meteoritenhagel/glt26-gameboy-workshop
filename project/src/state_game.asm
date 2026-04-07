@@ -4,6 +4,10 @@ INCLUDE "./include/hardware.inc"
 
 DEF TOP_TEXT_REGION_START EQU $9862
 DEF BOTTOM_TEXT_REGION_START EQU $9962
+DEF METRONOME_ARROW_REGION_START EQU $99A2
+
+DEF TILE_WHITE EQU $01
+DEF TILE_ARROW EQU $08
 
 
 SECTION "State Game Functions", ROM0
@@ -50,7 +54,40 @@ InitStateGame::
     ld [rLCDC], a
     
 GameplayLoop:
+    ld hl, METRONOME_ARROW_REGION_START  ; set the starting position on the screen
+    
+    ; First, execute the metronome.
+    ld d, 20  ; d is the duration of frames between two pulses
+    call PlayMetronome
+
     jr GameplayLoop
+
+
+; The metronome helps the player find the pulse before
+; having to enter the rhythm by themselves later in the
+; second phase of each round. It is an arrow that moves
+; one box per pulse to the right.
+; @param d: duration between two pulses in frames (approx. 1/60 sec)
+; @param hl: address of the starting position on the screen
+; @destroys af bc
+PlayMetronome:
+    ld c, 8  ; fill eight boxes, c is our counter
+.loop
+    ld a, TILE_ARROW
+    ld [hl], a
+
+    call PlayWeakBeat
+
+    ld a, d  ; wait a bit
+    call WaitMultipleVBlank
+
+    ; move arrow one to the right
+    ld a, TILE_WHITE
+    ld [hli], a
+
+    dec c
+    jr nz, .loop
+    ret
 
 
 SECTION "Game Text", ROM0
