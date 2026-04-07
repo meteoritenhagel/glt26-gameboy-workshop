@@ -40,8 +40,10 @@ InitStateTitle::
     ld [rLCDC], a
 
 	; During the first (blank) frame, initialize display registers
-	ld a, %11100100  ; default palette black:dark:light:white
+	ld a, %11111111  ; palette black:black:black:black
 	ld [rBGP], a
+
+    call FadeFromBlack
 
 ChangePaletteLoop:
     ld e, 30  ; wait for approx. half a second
@@ -59,6 +61,8 @@ ChangePaletteLoop:
     jr ChangePaletteLoop
 
 .exitState
+    call FadeToBlack
+    
     ld a, STATE_GAME
     ld [wNextState], a  ; Set the next game state to GAME
     ret

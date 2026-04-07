@@ -196,3 +196,45 @@ GetRandomByte::
   adc a, [hl]
   ld [hl], a
   ret
+
+
+; Fades from the currently used palette (implicitly assumed to
+; be the standard palette) gradually to a black screen.
+; @destroys a b
+FadeToBlack::	
+	ld a, %11111001
+	ld [rBGP], a
+	ld a, 12
+	call WaitMultipleVBlank
+	
+	ld a, %11111110
+	ld [rBGP], a
+	ld a, 12
+	call WaitMultipleVBlank
+	
+	ld a, %11111111
+	ld [rBGP], a
+	ld a, 12
+	call WaitMultipleVBlank
+	ret
+
+
+; Fades from the currently used palette (implicitly assumed to
+; be all black palette) gradually to the standard palette.
+; @destroys a b
+FadeFromBlack::	
+	ld a, %11111110
+	ld [rBGP], a
+	ld a, 12
+	call WaitMultipleVBlank
+	
+	ld a, %11111001
+	ld [rBGP], a
+	ld a, 12
+	call WaitMultipleVBlank
+	
+	ld a, %11100100
+	ld [rBGP], a
+	ld a, 12
+	call WaitMultipleVBlank
+	ret

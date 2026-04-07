@@ -65,6 +65,8 @@ InitStateGame::
     ld a, LCDC_ON | LCDC_BG_ON
     ld [rLCDC], a
 
+    call FadeFromBlack
+
     ; Initialize beat duration
     ld a, START_BEAT_DURATION
     ld [wBeatDuration], a
@@ -259,21 +261,27 @@ WaitMultipleVBlankPlayerInput:
 ; Displays a success message on screen.
 ; @destroy a bc de hl
 SuccessText::
+    ; fade to black
     ; clear screen,
     ; draw final text
+    ; fade back to normal palette
+    call FadeToBlack
     call ClearScreen
     ld a, 10
     call WaitMultipleVBlank
     ld de, FINAL_TEXT_REGION_START
     ld hl, FinalText
     call DrawText
+    call FadeFromBlack
 
     ld a, 255  ; wait some time
     call WaitMultipleVBlank
 
+    ; fade to black,
     ; clear screen,
     ; wait,
     ; and go to title screen
+    call FadeToBlack
     call ClearScreen
     ld a, 10  ; wait some time
     call WaitMultipleVBlank
