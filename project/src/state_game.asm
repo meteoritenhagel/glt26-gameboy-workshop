@@ -63,8 +63,10 @@ InitStateGame::
     ld a, LCDC_ON | LCDC_BG_ON
     ld [rLCDC], a
     
-    call InitGivenBeat
 GameplayLoop:
+    call InitGivenBeat
+
+.repeatRound
     call ClearPlayerInput  ; clear player input each round
 
     ld hl, METRONOME_ARROW_REGION_START  ; set the starting position on the screen
@@ -77,6 +79,13 @@ GameplayLoop:
     ; so we're at the correct position already!
     call PlayerInput
 
+    ; Finally, compare given beat and player input
+    ld a, [wCurrentGivenBeat]
+    ld b, a
+    ld a, [wCurrentPlayerBeat]
+    cp a, b
+    ; if they are not the same, repeat round with same given beat
+    jr nz, .repeatRound
     jr GameplayLoop
 
 
