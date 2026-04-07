@@ -115,3 +115,28 @@ StopSounds::
     ld b, 3  ; channel 4
     call hUGE_mute_channel
     ret
+
+
+; Draws text on a position on screen.
+; @param de: Pointer to the position on the screen.
+; @param hl: Pointer to text that is to be drawn.
+; @destroys a 
+DrawText::	
+	; Check for the end of string character 255
+	ld a, [hl]
+	cp 255
+	ret z  ; if end of string was found, return
+
+	; Write the current character (in hl) to the address
+	; on the tilemap (in de)
+	ld a, [hl]
+	; note that our text is loaded into the tiles at $8800,
+	; and these tiles start being indexed at $80, so we have
+	; to add this value
+	add $80
+	ld [de], a
+
+	; move to the next character and next background tile
+	inc hl
+	inc de
+	jp DrawText
