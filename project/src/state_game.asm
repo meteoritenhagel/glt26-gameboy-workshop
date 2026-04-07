@@ -17,6 +17,7 @@ DEF TILE_FULL_BOX EQU $0D
 SECTION "State Game Variables", WRAM0
 
 wCurrentGivenBeat: db    ; The byte storing the beat pattern the player should repeat
+wCurrentPlayerBeat: db   ; The player input beat
 
 
 SECTION "State Game Functions", ROM0
@@ -138,6 +139,10 @@ PlayMetronome:
 ; all player beat boxes to empty boxes.
 ; @destroys a b hl
 ClearPlayerInput:
+    ; player beat should start empty
+    xor a
+    ld [wCurrentPlayerBeat], a
+
     ; set start position on screen
     ld hl, PLAYER_BEAT_REGION_START
 
@@ -155,7 +160,7 @@ ClearPlayerInput:
 ; @param hl: address of the starting position on the screen
 ; @destroys af bc e
 PlayerInput:
-    ld c, 8  ; fill eight boxes, c is our counter
+    ld c, %00000001  ; our bitmask for setting the correct bit on the player input
 .loop
     ld a, TILE_ARROW
     ld [hl], a
@@ -168,14 +173,16 @@ PlayerInput:
     ld a, TILE_WHITE  ; after waiting, replace the arrow by a white box
     ld [hli], a       ; and go one position to the right
 
-    dec c
-    jp nz, .loop
-    ret  ; return if zero, so all eight boxes have been filled/emptied
+    rlc c  ; test next bit
+    jp nc, .loop
+    ret  ; return if carry flag is set, i.e., all bits were tested
 
 
 ; Waits a number of VBlank periods (1 VBlank is approx. 16.7 ms)
 ; and checks for user input. If input was found, the box one row
 ; below the position hl is pointing to is changed to a full box.
+; @param c: Bit mask of bit to set in [wCurrentPlayerBeat] if a
+;           beat was registered.
 ; @param e: Number of VBlank periods to wait
 ; @destroys a b e
 WaitMultipleVBlankPlayerInput:
@@ -199,6 +206,11 @@ WaitMultipleVBlankPlayerInput:
     ld a, l
     sub $20
     ld l, a
+    ; Finally, set the bit according to the bitmask if a player input
+    ; was registered
+    ld a, [wCurrentPlayerBeat]
+    or a, c
+    ld [wCurrentPlayerBeat], a
 .noInputResume
 	dec e
 	jr .waitForPlayerInputLoop
