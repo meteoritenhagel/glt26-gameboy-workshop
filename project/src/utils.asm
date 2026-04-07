@@ -96,3 +96,22 @@ WaitMultipleVBlank::
 	ld a, b
 	dec a
 	jr .loop
+
+
+; Mutes all sound channels.
+; @destroys a c e hl
+StopSounds::
+    ; Stop any sounds
+    ld c, 1  ; c = 1 means mute
+    ld b, 0  ; channel 1
+    call hUGE_mute_channel
+    ld c, 1 
+    ld b, 1  ; channel 2
+    call hUGE_mute_channel
+    ld c, 1 
+    ld b, 2  ; channel 3
+    call hUGE_mute_channel
+    ld c, 1 
+    ld b, 3  ; channel 4
+    call hUGE_mute_channel
+    ret
