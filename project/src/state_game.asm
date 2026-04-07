@@ -5,6 +5,7 @@ INCLUDE "./include/hardware.inc"
 DEF TOP_TEXT_REGION_START EQU $9862
 DEF BOTTOM_TEXT_REGION_START EQU $9962
 DEF METRONOME_ARROW_REGION_START EQU $99A2
+DEF PLAYER_BEAT_REGION_START EQU $99CA
 
 DEF TILE_WHITE EQU $01
 DEF TILE_ARROW EQU $08
@@ -56,6 +57,8 @@ InitStateGame::
     ld [rLCDC], a
     
 GameplayLoop:
+    call ClearPlayerInput  ; clear player input each round
+
     ld hl, METRONOME_ARROW_REGION_START  ; set the starting position on the screen
     
     ; First, execute the metronome.
@@ -94,6 +97,22 @@ PlayMetronome:
     dec c
     jr nz, .loop
     ret
+
+
+; Clears the player input from the previous round, i.e., resets
+; all player beat boxes to empty boxes.
+; @destroys a b hl
+ClearPlayerInput:
+    ; set start position on screen
+    ld hl, PLAYER_BEAT_REGION_START
+
+    ld b, 8  ; our counter for traversing all eight boxes
+.loop
+    ld a, TILE_EMPTY_BOX
+    ld [hli], a
+    dec b
+    jp nz, .loop
+    ret  ; return if zero, i.e., all eight boxes were filled
 
 
 ; Get the player input, this is the second phase of each round.
