@@ -7,7 +7,7 @@ This tutorial and the primary game mechanic of the rhythm input are inspired by 
 Except otherwise noted in section [Credits](#credits):
 * All code is licensed under the [MIT License](https://mit-license.org/).
 * All assets are under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). This especially applies to:
-  * The presentation slides `gameboy-hands-on-DE.fodp`
+  * The presentation slides `gameboy-hands-on-DE.fodp` and `gameboy-hands-on-DE.pdf`
  
 ## Requirements
 * [RGBDS v1.0.1 (MIT License)](https://github.com/gbdev/rgbds)
