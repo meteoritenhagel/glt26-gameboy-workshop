@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:editing-cycles>2</meta:editing-cycles><dc:date>2026-05-26T08:08:09.914709762</dc:date><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:editing-duration>PT1M1S</meta:editing-duration><meta:document-statistic meta:table-count="3" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="88" meta:word-count="253" meta:character-count="1301" meta:non-whitespace-character-count="1132"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">8641</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">48897</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">22465</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">16487</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">11950</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">8641</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">48895</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">31104</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IgnoreBreakAfterMultilineField" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="NoNumberingShowFollowBy" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="HyphenateURLs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AutoFirstLineIndentDisregardLineSpace" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyTextAttrToEmptyLineAtEndOfParagraph" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="JustifyLinesWithShrinking" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">24142</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotMirrorRtlDrawObjs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">HP_LaserJet_MFP_M139-M142</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">4wH+/0hQX0xhc2VySmV0X01GUF9NMTM5LU0xNDIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpIUF9MYXNlckpldF9NRlBfTTEzOS1NMTQyAAAWAAMAqgAAAAAAAQAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SFBfTGFzZXJKZXRfTUZQX00xMzktTTE0MgpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmFkanVzdG1lbnQ9MCwwLCcwLDAKY29sb3JkZXB0aD0yNApjb2xvcmRldmljZT0wClBQRENvbnRleHREYXRhClBhZ2VTaXplOkE0AAASAENPTVBBVF9EVVBMRVhfTU9ERRMARHVwbGV4TW9kZTo6VW5rbm93bgwAUFJJTlRFUl9OQU1FGQBIUF9MYXNlckpldF9NRlBfTTEzOS1NMTQyCwBEUklWRVJfTkFNRR4AQ1VQUzpIUF9MYXNlckpldF9NRlBfTTEzOS1NMTQy</config:config-item>
+   <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="NoGapAfterNoteNumber" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DropCapPunctuation" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">24142</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial1" svg:font-family="Arial" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Mono1" svg:font-family="&apos;Noto Mono&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans Devanagari" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Noto Sans Devanagari1" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:letter-kerning="false" style:font-name-asian="Arial1" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4917in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:letter-kerning="false" style:font-name-asian="Arial1" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false" loext:hyphenation-word-char-count="5" loext:hyphenation-zone="no-limit"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.139in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC" style:font-family-asian="&apos;Noto Sans CJK SC&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans Devanagari" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.139in" style:contextual-spacing="false" fo:line-height="100%"/>
+   <style:text-properties fo:color="#0e2841" loext:opacity="100%" fo:font-size="9pt" fo:font-style="italic" style:font-size-asian="9pt" style:font-style-asian="italic" style:font-size-complex="9pt" style:font-style-complex="italic">
+    <loext:char-complex-color loext:theme-type="dark2" loext:color-type="theme"/>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans Devanagari" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" loext:linked-style-name="Heading_20_1_20_Char" style:default-outline-level="1" style:list-style-name="" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.25in" fo:margin-bottom="0.0555in" style:contextual-spacing="false" fo:keep-together="always" fo:keep-with-next="always"/>
+   <style:text-properties fo:color="#0f4761" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="20pt" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="20pt">
+    <loext:char-complex-color loext:theme-type="accent1" loext:color-type="theme">
+     <loext:transformation loext:type="shade" loext:value="2509"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" loext:linked-style-name="Heading_20_2_20_Char" style:default-outline-level="2" style:list-style-name="" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.111in" fo:margin-bottom="0.0555in" style:contextual-spacing="false" fo:keep-together="always" fo:keep-with-next="always"/>
+   <style:text-properties fo:color="#0f4761" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="16pt" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="16pt" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="16pt">
+    <loext:char-complex-color loext:theme-type="accent1" loext:color-type="theme">
+     <loext:transformation loext:type="shade" loext:value="2509"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" loext:linked-style-name="Heading_20_3_20_Char" style:default-outline-level="3" style:list-style-name="" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.111in" fo:margin-bottom="0.0555in" style:contextual-spacing="false" fo:keep-together="always" fo:keep-with-next="always"/>
+   <style:text-properties fo:color="#0f4761" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt">
+    <loext:char-complex-color loext:theme-type="accent1" loext:color-type="theme">
+     <loext:transformation loext:type="shade" loext:value="2509"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" loext:linked-style-name="Heading_20_4_20_Char" style:default-outline-level="4" style:list-style-name="" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.0555in" fo:margin-bottom="0.028in" style:contextual-spacing="false" fo:keep-together="always" fo:keep-with-next="always"/>
+   <style:text-properties fo:color="#0f4761" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="italic" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-style-asian="italic" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-style-complex="italic">
+    <loext:char-complex-color loext:theme-type="accent1" loext:color-type="theme">
+     <loext:transformation loext:type="shade" loext:value="2509"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" loext:linked-style-name="Heading_20_5_20_Char" style:default-outline-level="5" style:list-style-name="" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.0555in" fo:margin-bottom="0.028in" style:contextual-spacing="false" fo:keep-together="always" fo:keep-with-next="always"/>
+   <style:text-properties fo:color="#0f4761" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable">
+    <loext:char-complex-color loext:theme-type="accent1" loext:color-type="theme">
+     <loext:transformation loext:type="shade" loext:value="2509"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" loext:linked-style-name="Heading_20_6_20_Char" style:default-outline-level="6" style:list-style-name="" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.028in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:keep-together="always" fo:keep-with-next="always"/>
+   <style:text-properties fo:color="#595959" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="italic" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-style-asian="italic" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-style-complex="italic">
+    <loext:char-complex-color loext:theme-type="dark1" loext:color-type="theme">
+     <loext:transformation loext:type="tint" loext:value="3490"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Heading_20_7" style:display-name="Heading 7" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" loext:linked-style-name="Heading_20_7_20_Char" style:default-outline-level="7" style:list-style-name="" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.028in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:keep-together="always" fo:keep-with-next="always"/>
+   <style:text-properties fo:color="#595959" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable">
+    <loext:char-complex-color loext:theme-type="dark1" loext:color-type="theme">
+     <loext:transformation loext:type="tint" loext:value="3490"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Heading_20_8" style:display-name="Heading 8" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" loext:linked-style-name="Heading_20_8_20_Char" style:default-outline-level="8" style:list-style-name="" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:keep-together="always" fo:keep-with-next="always"/>
+   <style:text-properties fo:color="#272727" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="italic" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-style-asian="italic" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-style-complex="italic">
+    <loext:char-complex-color loext:theme-type="dark1" loext:color-type="theme">
+     <loext:transformation loext:type="tint" loext:value="1529"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Heading_20_9" style:display-name="Heading 9" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" loext:linked-style-name="Heading_20_9_20_Char" style:default-outline-level="9" style:list-style-name="" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:keep-together="always" fo:keep-with-next="always"/>
+   <style:text-properties fo:color="#272727" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="italic" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-style-asian="italic" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-style-complex="italic">
+    <loext:char-complex-color loext:theme-type="dark1" loext:color-type="theme">
+     <loext:transformation loext:type="tint" loext:value="1529"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" loext:linked-style-name="Title_20_Char" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0555in" style:contextual-spacing="true" fo:line-height="100%"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="28pt" fo:letter-spacing="-0.0071in" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="28pt" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="28pt"/>
+  </style:style>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" loext:linked-style-name="Subtitle_20_Char" style:class="chapter">
+   <style:text-properties fo:color="#595959" loext:opacity="100%" fo:font-size="14pt" fo:letter-spacing="0.0102in" style:font-size-asian="14pt" style:font-size-complex="14pt">
+    <loext:char-complex-color loext:theme-type="dark1" loext:color-type="theme">
+     <loext:transformation loext:type="tint" loext:value="3490"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Quote" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" loext:linked-style-name="Quote_20_Char">
+   <style:paragraph-properties fo:margin-top="0.111in" fo:margin-bottom="0.139in" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#404040" loext:opacity="100%" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic">
+    <loext:char-complex-color loext:theme-type="dark1" loext:color-type="theme">
+     <loext:transformation loext:type="tint" loext:value="2509"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Intense_20_Quote" style:display-name="Intense Quote" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" loext:linked-style-name="Intense_20_Quote_20_Char">
+   <style:paragraph-properties fo:margin-left="0.6in" fo:margin-right="0.6in" fo:margin-top="0.25in" fo:margin-bottom="0.25in" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0.139in" fo:padding-bottom="0.139in" fo:border-left="none" fo:border-right="none" fo:border-top="0.51pt solid #0f4761" fo:border-bottom="0.51pt solid #0f4761"/>
+   <style:text-properties fo:color="#0f4761" loext:opacity="100%" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic">
+    <loext:char-complex-color loext:theme-type="accent1" loext:color-type="theme">
+     <loext:transformation loext:type="shade" loext:value="2509"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Header" style:family="paragraph" style:parent-style-name="Standard" loext:linked-style-name="Header_20_Char" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%">
+    <style:tab-stops>
+     <style:tab-stop style:position="3.3638in" style:type="center"/>
+     <style:tab-stop style:position="6.7283in" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" loext:linked-style-name="Footer_20_Char" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%">
+    <style:tab-stops>
+     <style:tab-stop style:position="3.3638in" style:type="center"/>
+     <style:tab-stop style:position="6.7283in" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" loext:linked-style-name="Footnote_20_Text_20_Char" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" loext:linked-style-name="Endnote_20_Text_20_Char" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Contents_20_1" style:display-name="Contents 1" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0693in" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_2" style:display-name="Contents 2" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.1528in" fo:margin-top="0in" fo:margin-bottom="0.0693in" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_3" style:display-name="Contents 3" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.3055in" fo:margin-top="0in" fo:margin-bottom="0.0693in" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_4" style:display-name="Contents 4" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.4583in" fo:margin-top="0in" fo:margin-bottom="0.0693in" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_5" style:display-name="Contents 5" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.611in" fo:margin-top="0in" fo:margin-bottom="0.0693in" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_6" style:display-name="Contents 6" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.7638in" fo:margin-top="0in" fo:margin-bottom="0.0693in" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_7" style:display-name="Contents 7" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.9165in" fo:margin-top="0in" fo:margin-bottom="0.0693in" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_8" style:display-name="Contents 8" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.0693in" fo:margin-top="0in" fo:margin-bottom="0.0693in" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_9" style:display-name="Contents 9" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.222in" fo:margin-top="0in" fo:margin-bottom="0.0693in" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Index_20_Heading" style:display-name="Index Heading" style:family="paragraph" style:parent-style-name="Heading" style:class="index"/>
+  <style:style style:name="Contents_20_Heading" style:display-name="Contents Heading" style:family="paragraph" style:class="index">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.139in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="Figure_20_Index_20_1" style:display-name="Figure Index 1" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="No_20_Spacing" style:display-name="No Spacing" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%"/>
+  </style:style>
+  <style:style style:name="List_20_Paragraph" style:display-name="List Paragraph" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.5in" fo:margin-top="0in" fo:margin-bottom="0.139in" style:contextual-spacing="true"/>
+  </style:style>
+  <style:style style:name="Default_20_Paragraph_20_Font" style:display-name="Default Paragraph Font" style:family="text"/>
+  <style:style style:name="Heading_20_1_20_Char" style:display-name="Heading 1 Char" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font" loext:linked-style-name="Heading_20_1">
+   <style:text-properties fo:color="#0f4761" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="20pt" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="20pt">
+    <loext:char-complex-color loext:theme-type="accent1" loext:color-type="theme">
+     <loext:transformation loext:type="shade" loext:value="2509"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Heading_20_2_20_Char" style:display-name="Heading 2 Char" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font" loext:linked-style-name="Heading_20_2">
+   <style:text-properties fo:color="#0f4761" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="16pt" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="16pt" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="16pt">
+    <loext:char-complex-color loext:theme-type="accent1" loext:color-type="theme">
+     <loext:transformation loext:type="shade" loext:value="2509"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Heading_20_3_20_Char" style:display-name="Heading 3 Char" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font" loext:linked-style-name="Heading_20_3">
+   <style:text-properties fo:color="#0f4761" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt">
+    <loext:char-complex-color loext:theme-type="accent1" loext:color-type="theme">
+     <loext:transformation loext:type="shade" loext:value="2509"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Heading_20_4_20_Char" style:display-name="Heading 4 Char" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font" loext:linked-style-name="Heading_20_4">
+   <style:text-properties fo:color="#0f4761" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="italic" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-style-asian="italic" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-style-complex="italic">
+    <loext:char-complex-color loext:theme-type="accent1" loext:color-type="theme">
+     <loext:transformation loext:type="shade" loext:value="2509"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Heading_20_5_20_Char" style:display-name="Heading 5 Char" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font" loext:linked-style-name="Heading_20_5">
+   <style:text-properties fo:color="#0f4761" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable">
+    <loext:char-complex-color loext:theme-type="accent1" loext:color-type="theme">
+     <loext:transformation loext:type="shade" loext:value="2509"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Heading_20_6_20_Char" style:display-name="Heading 6 Char" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font" loext:linked-style-name="Heading_20_6">
+   <style:text-properties fo:color="#595959" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="italic" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-style-asian="italic" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-style-complex="italic">
+    <loext:char-complex-color loext:theme-type="dark1" loext:color-type="theme">
+     <loext:transformation loext:type="tint" loext:value="3490"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Heading_20_7_20_Char" style:display-name="Heading 7 Char" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font" loext:linked-style-name="Heading_20_7">
+   <style:text-properties fo:color="#595959" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable">
+    <loext:char-complex-color loext:theme-type="dark1" loext:color-type="theme">
+     <loext:transformation loext:type="tint" loext:value="3490"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Heading_20_8_20_Char" style:display-name="Heading 8 Char" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font" loext:linked-style-name="Heading_20_8">
+   <style:text-properties fo:color="#272727" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="italic" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-style-asian="italic" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-style-complex="italic">
+    <loext:char-complex-color loext:theme-type="dark1" loext:color-type="theme">
+     <loext:transformation loext:type="tint" loext:value="1529"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Heading_20_9_20_Char" style:display-name="Heading 9 Char" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font" loext:linked-style-name="Heading_20_9">
+   <style:text-properties fo:color="#272727" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="italic" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-style-asian="italic" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-style-complex="italic">
+    <loext:char-complex-color loext:theme-type="dark1" loext:color-type="theme">
+     <loext:transformation loext:type="tint" loext:value="1529"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Title_20_Char" style:display-name="Title Char" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font" loext:linked-style-name="Title">
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="28pt" fo:letter-spacing="-0.0071in" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="28pt" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="28pt"/>
+  </style:style>
+  <style:style style:name="Subtitle_20_Char" style:display-name="Subtitle Char" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font" loext:linked-style-name="Subtitle">
+   <style:text-properties fo:color="#595959" loext:opacity="100%" fo:font-size="14pt" fo:letter-spacing="0.0102in" style:font-size-asian="14pt" style:font-size-complex="14pt">
+    <loext:char-complex-color loext:theme-type="dark1" loext:color-type="theme">
+     <loext:transformation loext:type="tint" loext:value="3490"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Quote_20_Char" style:display-name="Quote Char" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font" loext:linked-style-name="Quote">
+   <style:text-properties fo:color="#404040" loext:opacity="100%" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic">
+    <loext:char-complex-color loext:theme-type="dark1" loext:color-type="theme">
+     <loext:transformation loext:type="tint" loext:value="2509"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Intense_20_Emphasis" style:display-name="Intense Emphasis" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font">
+   <style:text-properties fo:color="#0f4761" loext:opacity="100%" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic">
+    <loext:char-complex-color loext:theme-type="accent1" loext:color-type="theme">
+     <loext:transformation loext:type="shade" loext:value="2509"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Intense_20_Quote_20_Char" style:display-name="Intense Quote Char" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font" loext:linked-style-name="Intense_20_Quote">
+   <style:text-properties fo:color="#0f4761" loext:opacity="100%" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic">
+    <loext:char-complex-color loext:theme-type="accent1" loext:color-type="theme">
+     <loext:transformation loext:type="shade" loext:value="2509"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Intense_20_Reference" style:display-name="Intense Reference" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font">
+   <style:text-properties fo:font-variant="small-caps" fo:color="#0f4761" loext:opacity="100%" fo:letter-spacing="0.0035in" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold">
+    <loext:char-complex-color loext:theme-type="accent1" loext:color-type="theme">
+     <loext:transformation loext:type="shade" loext:value="2509"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Subtle_20_Emphasis" style:display-name="Subtle Emphasis" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font">
+   <style:text-properties fo:color="#404040" loext:opacity="100%" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic">
+    <loext:char-complex-color loext:theme-type="dark1" loext:color-type="theme">
+     <loext:transformation loext:type="tint" loext:value="2509"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Subtle_20_Reference" style:display-name="Subtle Reference" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font">
+   <style:text-properties fo:font-variant="small-caps" fo:color="#5a5a5a" loext:opacity="100%">
+    <loext:char-complex-color loext:theme-type="dark1" loext:color-type="theme">
+     <loext:transformation loext:type="tint" loext:value="3529"/>
+    </loext:char-complex-color>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Book_20_Title" style:display-name="Book Title" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font">
+   <style:text-properties fo:letter-spacing="0.0035in" fo:font-style="italic" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Header_20_Char" style:display-name="Header Char" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font" loext:linked-style-name="Header"/>
+  <style:style style:name="Footer_20_Char" style:display-name="Footer Char" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font" loext:linked-style-name="Footer"/>
+  <style:style style:name="Footnote_20_Text_20_Char" style:display-name="Footnote Text Char" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font" loext:linked-style-name="Footnote">
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Endnote_20_Text_20_Char" style:display-name="Endnote Text Char" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font" loext:linked-style-name="Endnote">
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font">
+   <style:text-properties fo:color="#0563c1" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color">
+    <loext:char-complex-color loext:theme-type="hyperlink" loext:color-type="theme"/>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Visited_20_Internet_20_Link" style:display-name="Visited Internet Link" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font">
+   <style:text-properties fo:color="#954f72" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color">
+    <loext:char-complex-color loext:theme-type="followed-hyperlink" loext:color-type="theme"/>
+   </style:text-properties>
+  </style:style>
+  <style:style style:name="Placeholder_20_Text" style:display-name="Placeholder Text" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font">
+   <style:text-properties fo:color="#666666" loext:opacity="100%"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="No_20_List" style:display-name="No List">
+   <text:list-level-style-number text:level="1" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+  <loext:theme loext:name="Office Theme">
+   <loext:theme-colors loext:name="New Office">
+    <loext:color loext:name="dark1" loext:color="#000000"/>
+    <loext:color loext:name="light1" loext:color="#ffffff"/>
+    <loext:color loext:name="dark2" loext:color="#44546a"/>
+    <loext:color loext:name="light2" loext:color="#e7e6e6"/>
+    <loext:color loext:name="accent1" loext:color="#5b9bd5"/>
+    <loext:color loext:name="accent2" loext:color="#ed7d31"/>
+    <loext:color loext:name="accent3" loext:color="#a5a5a5"/>
+    <loext:color loext:name="accent4" loext:color="#ffc000"/>
+    <loext:color loext:name="accent5" loext:color="#4472c4"/>
+    <loext:color loext:name="accent6" loext:color="#70ad47"/>
+    <loext:color loext:name="hyperlink" loext:color="#0563c1"/>
+    <loext:color loext:name="followed-hyperlink" loext:color="#954f72"/>
+   </loext:theme-colors>
+  </loext:theme>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="Table1" style:family="table">
+   <style:table-properties style:width="6.2833in" fo:margin-left="0.0035in" fo:margin-top="0in" fo:margin-bottom="0in" table:align="left" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="Table1.A" style:family="table-column">
+   <style:table-column-properties style:column-width="1.4229in"/>
+  </style:style>
+  <style:style style:name="Table1.B" style:family="table-column">
+   <style:table-column-properties style:column-width="1.3222in"/>
+  </style:style>
+  <style:style style:name="Table1.C" style:family="table-column">
+   <style:table-column-properties style:column-width="0.1917in"/>
+  </style:style>
+  <style:style style:name="Table1.D" style:family="table-column">
+   <style:table-column-properties style:column-width="1.3778in"/>
+  </style:style>
+  <style:style style:name="Table1.E" style:family="table-column">
+   <style:table-column-properties style:column-width="1.9688in"/>
+  </style:style>
+  <style:style style:name="Table1.1" style:family="table-row">
+   <style:table-row-properties style:min-row-height="0.1792in" fo:keep-together="auto"/>
+  </style:style>
+  <style:style style:name="Table1.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0.075in" fo:padding-right="0.075in" fo:padding-top="0in" fo:padding-bottom="0in" fo:border="0.5pt solid #000000" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="Table1.11" style:family="table-row">
+   <style:table-row-properties style:min-row-height="0.141in" fo:keep-together="auto"/>
+  </style:style>
+  <style:style style:name="Table2" style:family="table">
+   <style:table-properties style:width="6.2549in" fo:margin-left="0.0035in" fo:margin-top="0in" fo:margin-bottom="0in" table:align="left" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="Table2.A" style:family="table-column">
+   <style:table-column-properties style:column-width="2.9361in"/>
+  </style:style>
+  <style:style style:name="Table2.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.3181in"/>
+  </style:style>
+  <style:style style:name="Table2.1" style:family="table-row">
+   <style:table-row-properties style:min-row-height="0.1771in" fo:keep-together="auto"/>
+  </style:style>
+  <style:style style:name="Table2.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0.075in" fo:padding-right="0.075in" fo:padding-top="0in" fo:padding-bottom="0in" fo:border="0.5pt solid #000000" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="Table3" style:family="table">
+   <style:table-properties style:width="6.2681in" fo:margin-left="0.0035in" fo:margin-top="0in" fo:margin-bottom="0in" table:align="left" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="Table3.A" style:family="table-column">
+   <style:table-column-properties style:column-width="3.134in"/>
+  </style:style>
+  <style:style style:name="Table3.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.1333in"/>
+  </style:style>
+  <style:style style:name="Table3.1" style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:style>
+  <style:style style:name="Table3.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0.075in" fo:padding-right="0.075in" fo:padding-top="0in" fo:padding-bottom="0in" fo:border="0.5pt solid #000000" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="Table3.9" style:family="table-row">
+   <style:table-row-properties style:min-row-height="0.1069in" fo:keep-together="auto"/>
+  </style:style>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:letter-kerning="false" style:font-name-asian="Arial1" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="de" fo:country="AT" style:letter-kerning="false" style:font-name-asian="Arial1" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:language-complex="de" style:country-complex="AT"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:letter-kerning="false" style:font-name-asian="Arial1" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-name-complex="Noto Mono1" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="de" fo:country="AT" fo:font-weight="bold" style:font-weight-asian="bold" style:language-complex="de" style:country-complex="AT" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:letter-kerning="false" style:font-name-asian="Arial1" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-name-complex="Noto Mono1" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:letter-kerning="false" style:font-name-asian="Arial1" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="de" fo:country="AT" style:letter-kerning="false" style:font-name-asian="Arial1" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:language-complex="de" style:country-complex="AT"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="7pt" style:font-size-asian="6.09999990463257pt" style:font-size-complex="7pt"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:language="de" fo:country="AT"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:language="de" fo:country="AT"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:language="de" fo:country="AT" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:language="de" fo:country="AT" fo:font-weight="bold" style:font-weight-asian="bold" style:language-complex="de" style:country-complex="AT" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:language="de" fo:country="AT" style:language-complex="de" style:country-complex="AT"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:language="de" fo:country="AT" fo:font-weight="normal" style:font-weight-asian="normal" style:language-complex="de" style:country-complex="AT" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties style:font-name="Noto Mono" fo:language="de" fo:country="AT" fo:font-weight="bold" style:font-name-asian="Noto Mono1" style:font-weight-asian="bold" style:font-name-complex="Noto Mono1" style:language-complex="de" style:country-complex="AT" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties style:font-name="Noto Mono" fo:language="de" fo:country="AT" fo:font-style="normal" fo:font-weight="bold" style:font-name-asian="Noto Mono1" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Mono1" style:language-complex="de" style:country-complex="AT" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties style:font-name="Noto Mono" fo:font-weight="bold" style:font-weight-asian="bold" style:font-name-complex="Noto Mono1" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties style:font-name="Noto Mono" fo:font-style="normal" fo:font-weight="bold" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Mono1" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties style:font-name="Noto Mono" fo:language="de" fo:country="AT" fo:font-style="normal" fo:font-weight="bold" style:font-name-asian="Noto Mono1" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Noto Mono1" style:language-complex="de" style:country-complex="AT" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="5.8272in" style:num-format="1" style:print-orientation="landscape" fo:margin-top="0.5in" fo:margin-bottom="0.5in" fo:margin-left="1in" fo:margin-right="1in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="10477" style:layout-grid-base-height="0.0693in" style:layout-grid-ruby-height="0in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.1665in" style:layout-grid-snap-to="true" style:footnote-max-height="0in" loext:margin-gutter="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.5in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-bottom="0.4602in" style:dynamic-spacing="true"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0.202in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.1626in" style:dynamic-spacing="true"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
+   <style:header>
+    <text:p text:style-name="Header"><text:span text:style-name="T1">Cheatsheet<text:tab/>Hands-On Gameboy-Entwicklung<text:tab/>GLT 10.04.2026</text:span></text:p>
+   </style:header>
+   <style:footer>
+    <text:p text:style-name="Footer"/>
+   </style:footer>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T3">CPU-Befehle:</text:span><text:span text:style-name="T3"/></text:p>
+   <table:table table:name="Table1" table:style-name="Table1">
+    <table:table-column table:style-name="Table1.A"/>
+    <table:table-column table:style-name="Table1.B"/>
+    <table:table-column table:style-name="Table1.C"/>
+    <table:table-column table:style-name="Table1.D"/>
+    <table:table-column table:style-name="Table1.E"/>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T8"><text:span text:style-name="T4">Befehl</text:span><text:span text:style-name="T4"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T8"><text:span text:style-name="T4">Was passiert</text:span><text:span text:style-name="T4"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T8"><text:span text:style-name="T4">Befehl</text:span><text:span text:style-name="T4"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T8"><text:span text:style-name="T4">Was passiert</text:span><text:span text:style-name="T4"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">ld a, $64</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T6">a ← $64</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">jr label</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T5">Jump zu nahem Label</text:span><text:span text:style-name="T5"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">ld a, b</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T6">a ← b</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">jp label</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T5">Jump zu Label</text:span><text:span text:style-name="T5"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">ld [$ABCD], a</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T5">*$ABCD </text:span><text:span text:style-name="T6">←</text:span><text:span text:style-name="T5"> a</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">call label</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T5">Rufe Subroutine auf</text:span><text:span text:style-name="T5"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">ld a, [hli]</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T5">a </text:span><text:span text:style-name="T6">←</text:span><text:span text:style-name="T5"> *hl++</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">ret</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T5">Verlasse Subroutine</text:span><text:span text:style-name="T5"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">ld ab, $ABCD</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T5">ab </text:span><text:span text:style-name="T6">←</text:span><text:span text:style-name="T5"> $ABCD </text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">reti</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T5">Verlasse Interrupt-Handler</text:span><text:span text:style-name="T5"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P3" loext:marker-style-name="T11"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P3" loext:marker-style-name="T11"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">add a, b</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T6">a ← a + b</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">jr z, label</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T5">jr wenn Zero-Flag == 1</text:span><text:span text:style-name="T5"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">sub a, b</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T6">a ← a – b</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">jp nz, label</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T5">jp wenn Zero-Flag == 0</text:span><text:span text:style-name="T5"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">cp b</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T5">Flags von a – b</text:span><text:span text:style-name="T5"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">call c, label</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T5">call wenn Carry-Flag == 1</text:span><text:span text:style-name="T5"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.11">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P3" loext:marker-style-name="T11"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">ret nc</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T5">ret wenn Carry-Flag == 0</text:span><text:span text:style-name="T5"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">and a, b</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T6">a ← a &amp; b</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P3" loext:marker-style-name="T11"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">or a, b</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T6">a ← a | b</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">push af</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T5">Lege af auf Stack</text:span><text:span text:style-name="T5"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">xor a, b</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T6">a ← a ^ b</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">pop de</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T5">Hole de von Stack</text:span><text:span text:style-name="T5"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P3" loext:marker-style-name="T11"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P3" loext:marker-style-name="T11"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">inc a</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T6">a ← a + 1</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P3" loext:marker-style-name="T11"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">dec a</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T5"><text:span text:style-name="T6">a ← a </text:span><text:span text:style-name="T5">–</text:span><text:span text:style-name="T6"> 1</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P3" loext:marker-style-name="T11"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P2" loext:marker-style-name="T5"/>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P4" loext:marker-style-name="T4"/>
+   <text:p text:style-name="P4" loext:marker-style-name="T4"/>
+   <text:p text:style-name="Standard" loext:marker-style-name="T4"><text:soft-page-break/><text:span text:style-name="T4">Assembler-Befehle:</text:span><text:span text:style-name="T4"/></text:p>
+   <table:table table:name="Table2" table:style-name="Table2">
+    <table:table-column table:style-name="Table2.A"/>
+    <table:table-column table:style-name="Table2.B"/>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">DEF MATH_PI EQU 3</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T6"><text:span text:style-name="T6">Konstante definieren</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">SECTION “title”, ROM0</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T6"><text:span text:style-name="T6">Daten-Section (ROM) in ROM0 anlegen</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">SECTION “vars”, WRAM0</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T6"><text:span text:style-name="T6">Variablen-Section (RAM) in WRAM0 anlegen</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">wUpdateSound:: db</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T6"><text:span text:style-name="T6">Variable mit einem Byte deklarieren</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">SomeText: db &quot;some text!&quot;, 255</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T6"><text:span text:style-name="T6">Text anlegen mit End-of-Line-Character 255</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">label::, label:, .label</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T6"><text:span text:style-name="T6">Label global, filespezifisch, routinenspezifisch</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">; ein kommentar</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T6"><text:span text:style-name="T6">Kommentar</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="Standard" loext:marker-style-name="T4"><text:span text:style-name="T4">Wichtige Speicherbereiche</text:span></text:p>
+   <table:table table:name="Table3" table:style-name="Table3">
+    <table:table-column table:style-name="Table3.A"/>
+    <table:table-column table:style-name="Table3.B"/>
+    <table:table-row table:style-name="Table3.1">
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">$0040</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T13"><text:span text:style-name="T6">VBlank-Interrupt-Handler</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table3.1">
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">$0100</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T13"><text:span text:style-name="T6">Header-Bereich</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table3.1">
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T9"><text:span text:style-name="T9">$9000, $8800</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T6"><text:span text:style-name="T6">Tiles 1, Tiles 2</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table3.1">
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T9"><text:span text:style-name="T9">$9800</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T6"><text:span text:style-name="T6">Tilemap</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table3.1">
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">rLCDC</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T13"><text:span text:style-name="T6">LCD Control Register</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table3.1">
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">rAUDENA</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T13"><text:span text:style-name="T6">Audio Master Control Register (NR52)</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table3.1">
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T11"><text:span text:style-name="T9">rAUDTERM</text:span><text:span text:style-name="T9"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T13"><text:span text:style-name="T6">Sound Panning Register (NR51)</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table3.1">
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T12"><text:span text:style-name="T10">rAUDVOL</text:span><text:span text:style-name="T14"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T13"><text:span text:style-name="T6">Audio Master Volume (NR50)</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table3.9">
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T12"><text:span text:style-name="T10">rIE</text:span><text:span text:style-name="T14"/></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P1" loext:marker-style-name="T6"><text:span text:style-name="T6">Interrupt Register</text:span><text:span text:style-name="T6"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="Standard"/>
+  </office:text>
+ </office:body>
+</office:document>
